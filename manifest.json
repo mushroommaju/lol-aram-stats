@@ -22,23 +22,48 @@
     },
     {
       "path": "data/aram_mayhem.sqlite.gz.part001",
-      "bytes": 20971520,
-      "sha256": "4964b4d19f4431af3671ec1cf2142c4dbea718c752898b1e28bebb883a1b22cc"
+      "bytes": 5242880,
+      "sha256": "6b4e748754a44b2222789a005b7d34486b0a59acd3439a2897c542df7ff91221"
     },
     {
       "path": "data/aram_mayhem.sqlite.gz.part002",
-      "bytes": 13858816,
-      "sha256": "56d18ab2f40449f0b5d4b4634107394934f5779bd39b18e921fa1ae958664558"
+      "bytes": 5242880,
+      "sha256": "9dbde8be41e3de1bb0ee676041dcf8fd4d4df1f84aa1c91777c5389c2551abed"
+    },
+    {
+      "path": "data/aram_mayhem.sqlite.gz.part003",
+      "bytes": 5242880,
+      "sha256": "16c9dcf22e0176b5a451550371fafe4b759483e9af8c8f66572a912630a5fbd7"
+    },
+    {
+      "path": "data/aram_mayhem.sqlite.gz.part004",
+      "bytes": 5242880,
+      "sha256": "79d0c0f4b8f0f41029f8ea32367b9de05d37f5345353f605ca17041feabac157"
+    },
+    {
+      "path": "data/aram_mayhem.sqlite.gz.part005",
+      "bytes": 5242880,
+      "sha256": "19a67932fae2c3ee54b0876c0354b3e5c4d0840896381960499eb051333cbc26"
+    },
+    {
+      "path": "data/aram_mayhem.sqlite.gz.part006",
+      "bytes": 5242880,
+      "sha256": "68c825f223d8eb734076a99e972490758200f83b4f096e84e1c58a27137b231e"
+    },
+    {
+      "path": "data/aram_mayhem.sqlite.gz.part007",
+      "bytes": 3373056,
+      "sha256": "60854c328e7b6367cdc73a94ebe8ea35731b07115d2475f0041bd2c30205732d"
     },
     {
       "path": "data/dataset.json",
-      "bytes": 1032,
-      "sha256": "1f28bba8034fbac3de4f210fd4e307c5a45d89e7a5c8693571ff5c89a46081ac"
+      "bytes": 1267,
+      "sha256": "fa61f24b832ab3ad5c2510adb61b8e5d8bcc83bce420894e1d5427aa4651deec"
     },
     {
       "path": "data/index.html",
-      "bytes": 1376,
-      "sha256": "2236401d33b053b12434d0b3885488fe6f358177eb2eab2103db431ec1791940"
+      "bytes": 1786,
+      "sha256": "e35117ea0b1fa3f0b15393eb047cf6f883e8fc8c55171579c72cff8633a371f0"
     },
     {
       "path": "data/matches-001.jsonl.gz",
