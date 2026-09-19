@@ -1,0 +1,1680 @@
+{
+  "thresholds": {
+    "min_games": 20,
+    "max_win_rate_percent": 45.0
+  },
+  "champions": [
+    {
+      "champion_id": 76,
+      "hero": "奈德丽 · 狂野女猎手",
+      "games": 25,
+      "wins": 7,
+      "win_rate": 0.28
+    },
+    {
+      "champion_id": 113,
+      "hero": "瑟庄妮 · 北地之怒",
+      "games": 32,
+      "wins": 10,
+      "win_rate": 0.3125
+    },
+    {
+      "champion_id": 412,
+      "hero": "锤石 · 魂锁典狱长",
+      "games": 40,
+      "wins": 13,
+      "win_rate": 0.325
+    },
+    {
+      "champion_id": 126,
+      "hero": "杰斯 · 未来守护者",
+      "games": 98,
+      "wins": 36,
+      "win_rate": 0.3673469387755102
+    },
+    {
+      "champion_id": 887,
+      "hero": "格温 · 灵罗娃娃",
+      "games": 35,
+      "wins": 13,
+      "win_rate": 0.37142857142857144
+    },
+    {
+      "champion_id": 711,
+      "hero": "薇古丝 · 愁云使者",
+      "games": 32,
+      "wins": 12,
+      "win_rate": 0.375
+    },
+    {
+      "champion_id": 80,
+      "hero": "潘森 · 不屈之枪",
+      "games": 53,
+      "wins": 20,
+      "win_rate": 0.37735849056603776
+    },
+    {
+      "champion_id": 163,
+      "hero": "塔莉垭 · 岩雀",
+      "games": 37,
+      "wins": 14,
+      "win_rate": 0.3783783783783784
+    },
+    {
+      "champion_id": 893,
+      "hero": "阿萝拉 · 双界灵兔",
+      "games": 57,
+      "wins": 22,
+      "win_rate": 0.38596491228070173
+    },
+    {
+      "champion_id": 42,
+      "hero": "库奇 · 英勇投弹手",
+      "games": 59,
+      "wins": 23,
+      "win_rate": 0.3898305084745763
+    },
+    {
+      "champion_id": 122,
+      "hero": "德莱厄斯 · 诺克萨斯之手",
+      "games": 61,
+      "wins": 24,
+      "win_rate": 0.39344262295081966
+    },
+    {
+      "champion_id": 90,
+      "hero": "玛尔扎哈 · 虚空先知",
+      "games": 43,
+      "wins": 17,
+      "win_rate": 0.3953488372093023
+    },
+    {
+      "champion_id": 910,
+      "hero": "彗 · 异画师",
+      "games": 48,
+      "wins": 19,
+      "win_rate": 0.3958333333333333
+    },
+    {
+      "champion_id": 62,
+      "hero": "孙悟空 · 齐天大圣",
+      "games": 20,
+      "wins": 8,
+      "win_rate": 0.4
+    },
+    {
+      "champion_id": 86,
+      "hero": "盖伦 · 德玛西亚之力",
+      "games": 60,
+      "wins": 24,
+      "win_rate": 0.4
+    },
+    {
+      "champion_id": 45,
+      "hero": "维迦 · 邪恶小法师",
+      "games": 67,
+      "wins": 27,
+      "win_rate": 0.40298507462686567
+    },
+    {
+      "champion_id": 4,
+      "hero": "崔斯特 · 卡牌大师",
+      "games": 57,
+      "wins": 23,
+      "win_rate": 0.40350877192982454
+    },
+    {
+      "champion_id": 235,
+      "hero": "赛娜 · 涤魂圣枪",
+      "games": 91,
+      "wins": 37,
+      "win_rate": 0.4065934065934066
+    },
+    {
+      "champion_id": 35,
+      "hero": "萨科 · 恶魔小丑",
+      "games": 47,
+      "wins": 20,
+      "win_rate": 0.425531914893617
+    },
+    {
+      "champion_id": 64,
+      "hero": "李青 · 盲僧",
+      "games": 28,
+      "wins": 12,
+      "win_rate": 0.42857142857142855
+    },
+    {
+      "champion_id": 121,
+      "hero": "卡兹克 · 虚空掠夺者",
+      "games": 23,
+      "wins": 10,
+      "win_rate": 0.43478260869565216
+    },
+    {
+      "champion_id": 72,
+      "hero": "斯卡纳 · 上古领主",
+      "games": 23,
+      "wins": 10,
+      "win_rate": 0.43478260869565216
+    },
+    {
+      "champion_id": 105,
+      "hero": "菲兹 · 潮汐海灵",
+      "games": 59,
+      "wins": 26,
+      "win_rate": 0.4406779661016949
+    },
+    {
+      "champion_id": 523,
+      "hero": "厄斐琉斯 · 残月之肃",
+      "games": 34,
+      "wins": 15,
+      "win_rate": 0.4411764705882353
+    },
+    {
+      "champion_id": 111,
+      "hero": "诺提勒斯 · 深海泰坦",
+      "games": 34,
+      "wins": 15,
+      "win_rate": 0.4411764705882353
+    },
+    {
+      "champion_id": 420,
+      "hero": "俄洛伊 · 海兽祭司",
+      "games": 27,
+      "wins": 12,
+      "win_rate": 0.4444444444444444
+    },
+    {
+      "champion_id": 27,
+      "hero": "辛吉德 · 炼金术士",
+      "games": 27,
+      "wins": 12,
+      "win_rate": 0.4444444444444444
+    },
+    {
+      "champion_id": 102,
+      "hero": "希瓦娜 · 龙血武姬",
+      "games": 49,
+      "wins": 22,
+      "win_rate": 0.4489795918367347
+    }
+  ],
+  "players": [
+    {
+      "player": "哑巴狮子#44403",
+      "total_games": 291,
+      "low_games": 74,
+      "low_share": 0.2542955326460481,
+      "low_wins": 27,
+      "low_win_rate": 0.36486486486486486,
+      "expected_win_rate": 0.39823814850667155,
+      "difference": -0.033373283641806695,
+      "leave_one_out_expected": 0.39826518436459074,
+      "leave_one_out_difference": -0.03340031949972588,
+      "heroes": [
+        {
+          "hero": "德莱厄斯 · 诺克萨斯之手",
+          "champion_id": 122,
+          "games": 15,
+          "wins": 6,
+          "baseline_win_rate": 0.39344262295081966,
+          "win_rate": 0.4
+        },
+        {
+          "hero": "维迦 · 邪恶小法师",
+          "champion_id": 45,
+          "games": 13,
+          "wins": 6,
+          "baseline_win_rate": 0.40298507462686567,
+          "win_rate": 0.46153846153846156
+        },
+        {
+          "hero": "潘森 · 不屈之枪",
+          "champion_id": 80,
+          "games": 9,
+          "wins": 2,
+          "baseline_win_rate": 0.37735849056603776,
+          "win_rate": 0.2222222222222222
+        },
+        {
+          "hero": "赛娜 · 涤魂圣枪",
+          "champion_id": 235,
+          "games": 8,
+          "wins": 4,
+          "baseline_win_rate": 0.4065934065934066,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "玛尔扎哈 · 虚空先知",
+          "champion_id": 90,
+          "games": 5,
+          "wins": 2,
+          "baseline_win_rate": 0.3953488372093023,
+          "win_rate": 0.4
+        },
+        {
+          "hero": "塔莉垭 · 岩雀",
+          "champion_id": 163,
+          "games": 4,
+          "wins": 4,
+          "baseline_win_rate": 0.3783783783783784,
+          "win_rate": 1.0
+        },
+        {
+          "hero": "希瓦娜 · 龙血武姬",
+          "champion_id": 102,
+          "games": 4,
+          "wins": 1,
+          "baseline_win_rate": 0.4489795918367347,
+          "win_rate": 0.25
+        },
+        {
+          "hero": "彗 · 异画师",
+          "champion_id": 910,
+          "games": 4,
+          "wins": 1,
+          "baseline_win_rate": 0.3958333333333333,
+          "win_rate": 0.25
+        },
+        {
+          "hero": "盖伦 · 德玛西亚之力",
+          "champion_id": 86,
+          "games": 3,
+          "wins": 0,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "斯卡纳 · 上古领主",
+          "champion_id": 72,
+          "games": 2,
+          "wins": 0,
+          "baseline_win_rate": 0.43478260869565216,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "锤石 · 魂锁典狱长",
+          "champion_id": 412,
+          "games": 2,
+          "wins": 1,
+          "baseline_win_rate": 0.325,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "俄洛伊 · 海兽祭司",
+          "champion_id": 420,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4444444444444444,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "库奇 · 英勇投弹手",
+          "champion_id": 42,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.3898305084745763,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "菲兹 · 潮汐海灵",
+          "champion_id": 105,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4406779661016949,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "薇古丝 · 愁云使者",
+          "champion_id": 711,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.375,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "诺提勒斯 · 深海泰坦",
+          "champion_id": 111,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.0
+        }
+      ]
+    },
+    {
+      "player": "祈山鹤#14781",
+      "total_games": 1334,
+      "low_games": 307,
+      "low_share": 0.23013493253373313,
+      "low_wins": 130,
+      "low_win_rate": 0.4234527687296417,
+      "expected_win_rate": 0.40217220433233447,
+      "difference": 0.021280564397307244,
+      "leave_one_out_expected": 0.35561246406844704,
+      "leave_one_out_difference": 0.06784030466119467,
+      "heroes": [
+        {
+          "hero": "赛娜 · 涤魂圣枪",
+          "champion_id": 235,
+          "games": 47,
+          "wins": 21,
+          "baseline_win_rate": 0.4065934065934066,
+          "win_rate": 0.44680851063829785
+        },
+        {
+          "hero": "库奇 · 英勇投弹手",
+          "champion_id": 42,
+          "games": 35,
+          "wins": 16,
+          "baseline_win_rate": 0.3898305084745763,
+          "win_rate": 0.45714285714285713
+        },
+        {
+          "hero": "希瓦娜 · 龙血武姬",
+          "champion_id": 102,
+          "games": 24,
+          "wins": 12,
+          "baseline_win_rate": 0.4489795918367347,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "杰斯 · 未来守护者",
+          "champion_id": 126,
+          "games": 23,
+          "wins": 10,
+          "baseline_win_rate": 0.3673469387755102,
+          "win_rate": 0.43478260869565216
+        },
+        {
+          "hero": "辛吉德 · 炼金术士",
+          "champion_id": 27,
+          "games": 22,
+          "wins": 11,
+          "baseline_win_rate": 0.4444444444444444,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "阿萝拉 · 双界灵兔",
+          "champion_id": 893,
+          "games": 19,
+          "wins": 10,
+          "baseline_win_rate": 0.38596491228070173,
+          "win_rate": 0.5263157894736842
+        },
+        {
+          "hero": "斯卡纳 · 上古领主",
+          "champion_id": 72,
+          "games": 13,
+          "wins": 7,
+          "baseline_win_rate": 0.43478260869565216,
+          "win_rate": 0.5384615384615384
+        },
+        {
+          "hero": "玛尔扎哈 · 虚空先知",
+          "champion_id": 90,
+          "games": 13,
+          "wins": 5,
+          "baseline_win_rate": 0.3953488372093023,
+          "win_rate": 0.38461538461538464
+        },
+        {
+          "hero": "塔莉垭 · 岩雀",
+          "champion_id": 163,
+          "games": 12,
+          "wins": 4,
+          "baseline_win_rate": 0.3783783783783784,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "潘森 · 不屈之枪",
+          "champion_id": 80,
+          "games": 12,
+          "wins": 4,
+          "baseline_win_rate": 0.37735849056603776,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "维迦 · 邪恶小法师",
+          "champion_id": 45,
+          "games": 12,
+          "wins": 5,
+          "baseline_win_rate": 0.40298507462686567,
+          "win_rate": 0.4166666666666667
+        },
+        {
+          "hero": "萨科 · 恶魔小丑",
+          "champion_id": 35,
+          "games": 12,
+          "wins": 5,
+          "baseline_win_rate": 0.425531914893617,
+          "win_rate": 0.4166666666666667
+        },
+        {
+          "hero": "盖伦 · 德玛西亚之力",
+          "champion_id": 86,
+          "games": 10,
+          "wins": 2,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.2
+        },
+        {
+          "hero": "锤石 · 魂锁典狱长",
+          "champion_id": 412,
+          "games": 10,
+          "wins": 1,
+          "baseline_win_rate": 0.325,
+          "win_rate": 0.1
+        },
+        {
+          "hero": "俄洛伊 · 海兽祭司",
+          "champion_id": 420,
+          "games": 8,
+          "wins": 4,
+          "baseline_win_rate": 0.4444444444444444,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "崔斯特 · 卡牌大师",
+          "champion_id": 4,
+          "games": 7,
+          "wins": 3,
+          "baseline_win_rate": 0.40350877192982454,
+          "win_rate": 0.42857142857142855
+        },
+        {
+          "hero": "诺提勒斯 · 深海泰坦",
+          "champion_id": 111,
+          "games": 7,
+          "wins": 3,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.42857142857142855
+        },
+        {
+          "hero": "孙悟空 · 齐天大圣",
+          "champion_id": 62,
+          "games": 6,
+          "wins": 3,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "瑟庄妮 · 北地之怒",
+          "champion_id": 113,
+          "games": 5,
+          "wins": 1,
+          "baseline_win_rate": 0.3125,
+          "win_rate": 0.2
+        },
+        {
+          "hero": "薇古丝 · 愁云使者",
+          "champion_id": 711,
+          "games": 4,
+          "wins": 2,
+          "baseline_win_rate": 0.375,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "菲兹 · 潮汐海灵",
+          "champion_id": 105,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.4406779661016949,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "彗 · 异画师",
+          "champion_id": 910,
+          "games": 2,
+          "wins": 0,
+          "baseline_win_rate": 0.3958333333333333,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "奈德丽 · 狂野女猎手",
+          "champion_id": 76,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.28,
+          "win_rate": 0.0
+        }
+      ]
+    },
+    {
+      "player": "Elves丶偏执狂#53171",
+      "total_games": 573,
+      "low_games": 129,
+      "low_share": 0.225130890052356,
+      "low_wins": 61,
+      "low_win_rate": 0.4728682170542636,
+      "expected_win_rate": 0.39279935590668336,
+      "difference": 0.08006886114758022,
+      "leave_one_out_expected": 0.3699254166456701,
+      "leave_one_out_difference": 0.1029428004085935,
+      "heroes": [
+        {
+          "hero": "玛尔扎哈 · 虚空先知",
+          "champion_id": 90,
+          "games": 16,
+          "wins": 9,
+          "baseline_win_rate": 0.3953488372093023,
+          "win_rate": 0.5625
+        },
+        {
+          "hero": "奈德丽 · 狂野女猎手",
+          "champion_id": 76,
+          "games": 12,
+          "wins": 3,
+          "baseline_win_rate": 0.28,
+          "win_rate": 0.25
+        },
+        {
+          "hero": "赛娜 · 涤魂圣枪",
+          "champion_id": 235,
+          "games": 11,
+          "wins": 6,
+          "baseline_win_rate": 0.4065934065934066,
+          "win_rate": 0.5454545454545454
+        },
+        {
+          "hero": "库奇 · 英勇投弹手",
+          "champion_id": 42,
+          "games": 10,
+          "wins": 5,
+          "baseline_win_rate": 0.3898305084745763,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "崔斯特 · 卡牌大师",
+          "champion_id": 4,
+          "games": 9,
+          "wins": 4,
+          "baseline_win_rate": 0.40350877192982454,
+          "win_rate": 0.4444444444444444
+        },
+        {
+          "hero": "盖伦 · 德玛西亚之力",
+          "champion_id": 86,
+          "games": 9,
+          "wins": 5,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.5555555555555556
+        },
+        {
+          "hero": "诺提勒斯 · 深海泰坦",
+          "champion_id": 111,
+          "games": 9,
+          "wins": 3,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "李青 · 盲僧",
+          "champion_id": 64,
+          "games": 8,
+          "wins": 6,
+          "baseline_win_rate": 0.42857142857142855,
+          "win_rate": 0.75
+        },
+        {
+          "hero": "菲兹 · 潮汐海灵",
+          "champion_id": 105,
+          "games": 8,
+          "wins": 6,
+          "baseline_win_rate": 0.4406779661016949,
+          "win_rate": 0.75
+        },
+        {
+          "hero": "杰斯 · 未来守护者",
+          "champion_id": 126,
+          "games": 5,
+          "wins": 3,
+          "baseline_win_rate": 0.3673469387755102,
+          "win_rate": 0.6
+        },
+        {
+          "hero": "瑟庄妮 · 北地之怒",
+          "champion_id": 113,
+          "games": 5,
+          "wins": 3,
+          "baseline_win_rate": 0.3125,
+          "win_rate": 0.6
+        },
+        {
+          "hero": "卡兹克 · 虚空掠夺者",
+          "champion_id": 121,
+          "games": 4,
+          "wins": 0,
+          "baseline_win_rate": 0.43478260869565216,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "德莱厄斯 · 诺克萨斯之手",
+          "champion_id": 122,
+          "games": 3,
+          "wins": 2,
+          "baseline_win_rate": 0.39344262295081966,
+          "win_rate": 0.6666666666666666
+        },
+        {
+          "hero": "维迦 · 邪恶小法师",
+          "champion_id": 45,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.40298507462686567,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "萨科 · 恶魔小丑",
+          "champion_id": 35,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.425531914893617,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "辛吉德 · 炼金术士",
+          "champion_id": 27,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.4444444444444444,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "俄洛伊 · 海兽祭司",
+          "champion_id": 420,
+          "games": 2,
+          "wins": 1,
+          "baseline_win_rate": 0.4444444444444444,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "塔莉垭 · 岩雀",
+          "champion_id": 163,
+          "games": 2,
+          "wins": 0,
+          "baseline_win_rate": 0.3783783783783784,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "希瓦娜 · 龙血武姬",
+          "champion_id": 102,
+          "games": 2,
+          "wins": 1,
+          "baseline_win_rate": 0.4489795918367347,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "薇古丝 · 愁云使者",
+          "champion_id": 711,
+          "games": 2,
+          "wins": 1,
+          "baseline_win_rate": 0.375,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "锤石 · 魂锁典狱长",
+          "champion_id": 412,
+          "games": 2,
+          "wins": 0,
+          "baseline_win_rate": 0.325,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "潘森 · 不屈之枪",
+          "champion_id": 80,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.37735849056603776,
+          "win_rate": 0.0
+        }
+      ]
+    },
+    {
+      "player": "我不食蒸鱼饭#48075",
+      "total_games": 335,
+      "low_games": 66,
+      "low_share": 0.19701492537313434,
+      "low_wins": 32,
+      "low_win_rate": 0.48484848484848486,
+      "expected_win_rate": 0.42381137252912965,
+      "difference": 0.06103711231935521,
+      "leave_one_out_expected": 0.40315975010096133,
+      "leave_one_out_difference": 0.08168873474752353,
+      "heroes": [
+        {
+          "hero": "希瓦娜 · 龙血武姬",
+          "champion_id": 102,
+          "games": 14,
+          "wins": 6,
+          "baseline_win_rate": 0.4489795918367347,
+          "win_rate": 0.42857142857142855
+        },
+        {
+          "hero": "菲兹 · 潮汐海灵",
+          "champion_id": 105,
+          "games": 13,
+          "wins": 7,
+          "baseline_win_rate": 0.4406779661016949,
+          "win_rate": 0.5384615384615384
+        },
+        {
+          "hero": "厄斐琉斯 · 残月之肃",
+          "champion_id": 523,
+          "games": 10,
+          "wins": 6,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.6
+        },
+        {
+          "hero": "卡兹克 · 虚空掠夺者",
+          "champion_id": 121,
+          "games": 6,
+          "wins": 4,
+          "baseline_win_rate": 0.43478260869565216,
+          "win_rate": 0.6666666666666666
+        },
+        {
+          "hero": "崔斯特 · 卡牌大师",
+          "champion_id": 4,
+          "games": 6,
+          "wins": 2,
+          "baseline_win_rate": 0.40350877192982454,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "彗 · 异画师",
+          "champion_id": 910,
+          "games": 4,
+          "wins": 3,
+          "baseline_win_rate": 0.3958333333333333,
+          "win_rate": 0.75
+        },
+        {
+          "hero": "库奇 · 英勇投弹手",
+          "champion_id": 42,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.3898305084745763,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "瑟庄妮 · 北地之怒",
+          "champion_id": 113,
+          "games": 3,
+          "wins": 0,
+          "baseline_win_rate": 0.3125,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "阿萝拉 · 双界灵兔",
+          "champion_id": 893,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.38596491228070173,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "赛娜 · 涤魂圣枪",
+          "champion_id": 235,
+          "games": 2,
+          "wins": 1,
+          "baseline_win_rate": 0.4065934065934066,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "李青 · 盲僧",
+          "champion_id": 64,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.42857142857142855,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "萨科 · 恶魔小丑",
+          "champion_id": 35,
+          "games": 1,
+          "wins": 1,
+          "baseline_win_rate": 0.425531914893617,
+          "win_rate": 1.0
+        }
+      ]
+    },
+    {
+      "player": "Lou楼louy#22286",
+      "total_games": 638,
+      "low_games": 124,
+      "low_share": 0.19435736677115986,
+      "low_wins": 47,
+      "low_win_rate": 0.3790322580645161,
+      "expected_win_rate": 0.39261118243547977,
+      "difference": -0.013578924370963641,
+      "leave_one_out_expected": 0.38411516309708377,
+      "leave_one_out_difference": -0.005082905032567642,
+      "heroes": [
+        {
+          "hero": "薇古丝 · 愁云使者",
+          "champion_id": 711,
+          "games": 21,
+          "wins": 8,
+          "baseline_win_rate": 0.375,
+          "win_rate": 0.38095238095238093
+        },
+        {
+          "hero": "格温 · 灵罗娃娃",
+          "champion_id": 887,
+          "games": 15,
+          "wins": 7,
+          "baseline_win_rate": 0.37142857142857144,
+          "win_rate": 0.4666666666666667
+        },
+        {
+          "hero": "盖伦 · 德玛西亚之力",
+          "champion_id": 86,
+          "games": 12,
+          "wins": 4,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "潘森 · 不屈之枪",
+          "champion_id": 80,
+          "games": 11,
+          "wins": 4,
+          "baseline_win_rate": 0.37735849056603776,
+          "win_rate": 0.36363636363636365
+        },
+        {
+          "hero": "俄洛伊 · 海兽祭司",
+          "champion_id": 420,
+          "games": 10,
+          "wins": 4,
+          "baseline_win_rate": 0.4444444444444444,
+          "win_rate": 0.4
+        },
+        {
+          "hero": "德莱厄斯 · 诺克萨斯之手",
+          "champion_id": 122,
+          "games": 10,
+          "wins": 4,
+          "baseline_win_rate": 0.39344262295081966,
+          "win_rate": 0.4
+        },
+        {
+          "hero": "诺提勒斯 · 深海泰坦",
+          "champion_id": 111,
+          "games": 10,
+          "wins": 5,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "瑟庄妮 · 北地之怒",
+          "champion_id": 113,
+          "games": 6,
+          "wins": 2,
+          "baseline_win_rate": 0.3125,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "维迦 · 邪恶小法师",
+          "champion_id": 45,
+          "games": 6,
+          "wins": 2,
+          "baseline_win_rate": 0.40298507462686567,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "赛娜 · 涤魂圣枪",
+          "champion_id": 235,
+          "games": 6,
+          "wins": 1,
+          "baseline_win_rate": 0.4065934065934066,
+          "win_rate": 0.16666666666666666
+        },
+        {
+          "hero": "斯卡纳 · 上古领主",
+          "champion_id": 72,
+          "games": 5,
+          "wins": 3,
+          "baseline_win_rate": 0.43478260869565216,
+          "win_rate": 0.6
+        },
+        {
+          "hero": "锤石 · 魂锁典狱长",
+          "champion_id": 412,
+          "games": 5,
+          "wins": 1,
+          "baseline_win_rate": 0.325,
+          "win_rate": 0.2
+        },
+        {
+          "hero": "希瓦娜 · 龙血武姬",
+          "champion_id": 102,
+          "games": 2,
+          "wins": 1,
+          "baseline_win_rate": 0.4489795918367347,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "孙悟空 · 齐天大圣",
+          "champion_id": 62,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "玛尔扎哈 · 虚空先知",
+          "champion_id": 90,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.3953488372093023,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "菲兹 · 潮汐海灵",
+          "champion_id": 105,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4406779661016949,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "辛吉德 · 炼金术士",
+          "champion_id": 27,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4444444444444444,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "阿萝拉 · 双界灵兔",
+          "champion_id": 893,
+          "games": 1,
+          "wins": 1,
+          "baseline_win_rate": 0.38596491228070173,
+          "win_rate": 1.0
+        }
+      ]
+    },
+    {
+      "player": "玩个肉混一混#47672",
+      "total_games": 984,
+      "low_games": 181,
+      "low_share": 0.1839430894308943,
+      "low_wins": 76,
+      "low_win_rate": 0.4198895027624309,
+      "expected_win_rate": 0.393624319912376,
+      "difference": 0.026265182850054913,
+      "leave_one_out_expected": 0.3766357435065381,
+      "leave_one_out_difference": 0.04325375925589281,
+      "heroes": [
+        {
+          "hero": "彗 · 异画师",
+          "champion_id": 910,
+          "games": 26,
+          "wins": 12,
+          "baseline_win_rate": 0.3958333333333333,
+          "win_rate": 0.46153846153846156
+        },
+        {
+          "hero": "塔莉垭 · 岩雀",
+          "champion_id": 163,
+          "games": 16,
+          "wins": 5,
+          "baseline_win_rate": 0.3783783783783784,
+          "win_rate": 0.3125
+        },
+        {
+          "hero": "格温 · 灵罗娃娃",
+          "champion_id": 887,
+          "games": 14,
+          "wins": 4,
+          "baseline_win_rate": 0.37142857142857144,
+          "win_rate": 0.2857142857142857
+        },
+        {
+          "hero": "厄斐琉斯 · 残月之肃",
+          "champion_id": 523,
+          "games": 13,
+          "wins": 7,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.5384615384615384
+        },
+        {
+          "hero": "德莱厄斯 · 诺克萨斯之手",
+          "champion_id": 122,
+          "games": 13,
+          "wins": 9,
+          "baseline_win_rate": 0.39344262295081966,
+          "win_rate": 0.6923076923076923
+        },
+        {
+          "hero": "锤石 · 魂锁典狱长",
+          "champion_id": 412,
+          "games": 13,
+          "wins": 6,
+          "baseline_win_rate": 0.325,
+          "win_rate": 0.46153846153846156
+        },
+        {
+          "hero": "阿萝拉 · 双界灵兔",
+          "champion_id": 893,
+          "games": 13,
+          "wins": 2,
+          "baseline_win_rate": 0.38596491228070173,
+          "win_rate": 0.15384615384615385
+        },
+        {
+          "hero": "菲兹 · 潮汐海灵",
+          "champion_id": 105,
+          "games": 11,
+          "wins": 5,
+          "baseline_win_rate": 0.4406779661016949,
+          "win_rate": 0.45454545454545453
+        },
+        {
+          "hero": "萨科 · 恶魔小丑",
+          "champion_id": 35,
+          "games": 11,
+          "wins": 7,
+          "baseline_win_rate": 0.425531914893617,
+          "win_rate": 0.6363636363636364
+        },
+        {
+          "hero": "杰斯 · 未来守护者",
+          "champion_id": 126,
+          "games": 10,
+          "wins": 4,
+          "baseline_win_rate": 0.3673469387755102,
+          "win_rate": 0.4
+        },
+        {
+          "hero": "孙悟空 · 齐天大圣",
+          "champion_id": 62,
+          "games": 6,
+          "wins": 3,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "维迦 · 邪恶小法师",
+          "champion_id": 45,
+          "games": 6,
+          "wins": 2,
+          "baseline_win_rate": 0.40298507462686567,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "李青 · 盲僧",
+          "champion_id": 64,
+          "games": 5,
+          "wins": 2,
+          "baseline_win_rate": 0.42857142857142855,
+          "win_rate": 0.4
+        },
+        {
+          "hero": "玛尔扎哈 · 虚空先知",
+          "champion_id": 90,
+          "games": 5,
+          "wins": 0,
+          "baseline_win_rate": 0.3953488372093023,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "赛娜 · 涤魂圣枪",
+          "champion_id": 235,
+          "games": 4,
+          "wins": 1,
+          "baseline_win_rate": 0.4065934065934066,
+          "win_rate": 0.25
+        },
+        {
+          "hero": "俄洛伊 · 海兽祭司",
+          "champion_id": 420,
+          "games": 3,
+          "wins": 2,
+          "baseline_win_rate": 0.4444444444444444,
+          "win_rate": 0.6666666666666666
+        },
+        {
+          "hero": "卡兹克 · 虚空掠夺者",
+          "champion_id": 121,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.43478260869565216,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "奈德丽 · 狂野女猎手",
+          "champion_id": 76,
+          "games": 3,
+          "wins": 2,
+          "baseline_win_rate": 0.28,
+          "win_rate": 0.6666666666666666
+        },
+        {
+          "hero": "库奇 · 英勇投弹手",
+          "champion_id": 42,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.3898305084745763,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "诺提勒斯 · 深海泰坦",
+          "champion_id": 111,
+          "games": 2,
+          "wins": 1,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "瑟庄妮 · 北地之怒",
+          "champion_id": 113,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.3125,
+          "win_rate": 0.0
+        }
+      ]
+    },
+    {
+      "player": "山本不在此#23824",
+      "total_games": 1650,
+      "low_games": 275,
+      "low_share": 0.16666666666666666,
+      "low_wins": 92,
+      "low_win_rate": 0.33454545454545453,
+      "expected_win_rate": 0.39369975486160286,
+      "difference": -0.05915430031614832,
+      "leave_one_out_expected": 0.42398320006998846,
+      "leave_one_out_difference": -0.08943774552453393,
+      "heroes": [
+        {
+          "hero": "杰斯 · 未来守护者",
+          "champion_id": 126,
+          "games": 48,
+          "wins": 15,
+          "baseline_win_rate": 0.3673469387755102,
+          "win_rate": 0.3125
+        },
+        {
+          "hero": "潘森 · 不屈之枪",
+          "champion_id": 80,
+          "games": 20,
+          "wins": 10,
+          "baseline_win_rate": 0.37735849056603776,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "阿萝拉 · 双界灵兔",
+          "champion_id": 893,
+          "games": 20,
+          "wins": 8,
+          "baseline_win_rate": 0.38596491228070173,
+          "win_rate": 0.4
+        },
+        {
+          "hero": "菲兹 · 潮汐海灵",
+          "champion_id": 105,
+          "games": 19,
+          "wins": 6,
+          "baseline_win_rate": 0.4406779661016949,
+          "win_rate": 0.3157894736842105
+        },
+        {
+          "hero": "萨科 · 恶魔小丑",
+          "champion_id": 35,
+          "games": 18,
+          "wins": 4,
+          "baseline_win_rate": 0.425531914893617,
+          "win_rate": 0.2222222222222222
+        },
+        {
+          "hero": "德莱厄斯 · 诺克萨斯之手",
+          "champion_id": 122,
+          "games": 16,
+          "wins": 2,
+          "baseline_win_rate": 0.39344262295081966,
+          "win_rate": 0.125
+        },
+        {
+          "hero": "维迦 · 邪恶小法师",
+          "champion_id": 45,
+          "games": 15,
+          "wins": 7,
+          "baseline_win_rate": 0.40298507462686567,
+          "win_rate": 0.4666666666666667
+        },
+        {
+          "hero": "崔斯特 · 卡牌大师",
+          "champion_id": 4,
+          "games": 14,
+          "wins": 5,
+          "baseline_win_rate": 0.40350877192982454,
+          "win_rate": 0.35714285714285715
+        },
+        {
+          "hero": "李青 · 盲僧",
+          "champion_id": 64,
+          "games": 14,
+          "wins": 4,
+          "baseline_win_rate": 0.42857142857142855,
+          "win_rate": 0.2857142857142857
+        },
+        {
+          "hero": "盖伦 · 德玛西亚之力",
+          "champion_id": 86,
+          "games": 13,
+          "wins": 5,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.38461538461538464
+        },
+        {
+          "hero": "赛娜 · 涤魂圣枪",
+          "champion_id": 235,
+          "games": 12,
+          "wins": 3,
+          "baseline_win_rate": 0.4065934065934066,
+          "win_rate": 0.25
+        },
+        {
+          "hero": "卡兹克 · 虚空掠夺者",
+          "champion_id": 121,
+          "games": 8,
+          "wins": 4,
+          "baseline_win_rate": 0.43478260869565216,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "厄斐琉斯 · 残月之肃",
+          "champion_id": 523,
+          "games": 8,
+          "wins": 2,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.25
+        },
+        {
+          "hero": "锤石 · 魂锁典狱长",
+          "champion_id": 412,
+          "games": 8,
+          "wins": 4,
+          "baseline_win_rate": 0.325,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "奈德丽 · 狂野女猎手",
+          "champion_id": 76,
+          "games": 7,
+          "wins": 1,
+          "baseline_win_rate": 0.28,
+          "win_rate": 0.14285714285714285
+        },
+        {
+          "hero": "格温 · 灵罗娃娃",
+          "champion_id": 887,
+          "games": 6,
+          "wins": 2,
+          "baseline_win_rate": 0.37142857142857144,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "彗 · 异画师",
+          "champion_id": 910,
+          "games": 5,
+          "wins": 0,
+          "baseline_win_rate": 0.3958333333333333,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "孙悟空 · 齐天大圣",
+          "champion_id": 62,
+          "games": 4,
+          "wins": 2,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "瑟庄妮 · 北地之怒",
+          "champion_id": 113,
+          "games": 4,
+          "wins": 2,
+          "baseline_win_rate": 0.3125,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "诺提勒斯 · 深海泰坦",
+          "champion_id": 111,
+          "games": 4,
+          "wins": 3,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.75
+        },
+        {
+          "hero": "俄洛伊 · 海兽祭司",
+          "champion_id": 420,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.4444444444444444,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "塔莉垭 · 岩雀",
+          "champion_id": 163,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.3783783783783784,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "库奇 · 英勇投弹手",
+          "champion_id": 42,
+          "games": 3,
+          "wins": 0,
+          "baseline_win_rate": 0.3898305084745763,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "玛尔扎哈 · 虚空先知",
+          "champion_id": 90,
+          "games": 2,
+          "wins": 1,
+          "baseline_win_rate": 0.3953488372093023,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "希瓦娜 · 龙血武姬",
+          "champion_id": 102,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4489795918367347,
+          "win_rate": 0.0
+        }
+      ]
+    },
+    {
+      "player": "小鸡脚黑子#56191",
+      "total_games": 478,
+      "low_games": 78,
+      "low_share": 0.16317991631799164,
+      "low_wins": 30,
+      "low_win_rate": 0.38461538461538464,
+      "expected_win_rate": 0.39899068724265735,
+      "difference": -0.014375302627272712,
+      "leave_one_out_expected": 0.39311344211914806,
+      "leave_one_out_difference": -0.008498057503763423,
+      "heroes": [
+        {
+          "hero": "崔斯特 · 卡牌大师",
+          "champion_id": 4,
+          "games": 21,
+          "wins": 9,
+          "baseline_win_rate": 0.40350877192982454,
+          "win_rate": 0.42857142857142855
+        },
+        {
+          "hero": "杰斯 · 未来守护者",
+          "champion_id": 126,
+          "games": 11,
+          "wins": 4,
+          "baseline_win_rate": 0.3673469387755102,
+          "win_rate": 0.36363636363636365
+        },
+        {
+          "hero": "维迦 · 邪恶小法师",
+          "champion_id": 45,
+          "games": 11,
+          "wins": 3,
+          "baseline_win_rate": 0.40298507462686567,
+          "win_rate": 0.2727272727272727
+        },
+        {
+          "hero": "盖伦 · 德玛西亚之力",
+          "champion_id": 86,
+          "games": 9,
+          "wins": 7,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.7777777777777778
+        },
+        {
+          "hero": "彗 · 异画师",
+          "champion_id": 910,
+          "games": 7,
+          "wins": 3,
+          "baseline_win_rate": 0.3958333333333333,
+          "win_rate": 0.42857142857142855
+        },
+        {
+          "hero": "厄斐琉斯 · 残月之肃",
+          "champion_id": 523,
+          "games": 3,
+          "wins": 0,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "菲兹 · 潮汐海灵",
+          "champion_id": 105,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.4406779661016949,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "卡兹克 · 虚空掠夺者",
+          "champion_id": 121,
+          "games": 2,
+          "wins": 1,
+          "baseline_win_rate": 0.43478260869565216,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "库奇 · 英勇投弹手",
+          "champion_id": 42,
+          "games": 2,
+          "wins": 0,
+          "baseline_win_rate": 0.3898305084745763,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "萨科 · 恶魔小丑",
+          "champion_id": 35,
+          "games": 2,
+          "wins": 2,
+          "baseline_win_rate": 0.425531914893617,
+          "win_rate": 1.0
+        },
+        {
+          "hero": "奈德丽 · 狂野女猎手",
+          "champion_id": 76,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.28,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "孙悟空 · 齐天大圣",
+          "champion_id": 62,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "德莱厄斯 · 诺克萨斯之手",
+          "champion_id": 122,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.39344262295081966,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "斯卡纳 · 上古领主",
+          "champion_id": 72,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.43478260869565216,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "玛尔扎哈 · 虚空先知",
+          "champion_id": 90,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.3953488372093023,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "瑟庄妮 · 北地之怒",
+          "champion_id": 113,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.3125,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "诺提勒斯 · 深海泰坦",
+          "champion_id": 111,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4411764705882353,
+          "win_rate": 0.0
+        }
+      ]
+    },
+    {
+      "player": "三角洲威龙#44564",
+      "total_games": 256,
+      "low_games": 32,
+      "low_share": 0.125,
+      "low_wins": 8,
+      "low_win_rate": 0.25,
+      "expected_win_rate": 0.37819837698710357,
+      "difference": -0.12819837698710357,
+      "leave_one_out_expected": 0.3895757944740706,
+      "leave_one_out_difference": -0.1395757944740706,
+      "heroes": [
+        {
+          "hero": "瑟庄妮 · 北地之怒",
+          "champion_id": 113,
+          "games": 7,
+          "wins": 2,
+          "baseline_win_rate": 0.3125,
+          "win_rate": 0.2857142857142857
+        },
+        {
+          "hero": "盖伦 · 德玛西亚之力",
+          "champion_id": 86,
+          "games": 4,
+          "wins": 1,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.25
+        },
+        {
+          "hero": "薇古丝 · 愁云使者",
+          "champion_id": 711,
+          "games": 4,
+          "wins": 1,
+          "baseline_win_rate": 0.375,
+          "win_rate": 0.25
+        },
+        {
+          "hero": "德莱厄斯 · 诺克萨斯之手",
+          "champion_id": 122,
+          "games": 3,
+          "wins": 1,
+          "baseline_win_rate": 0.39344262295081966,
+          "win_rate": 0.3333333333333333
+        },
+        {
+          "hero": "孙悟空 · 齐天大圣",
+          "champion_id": 62,
+          "games": 2,
+          "wins": 0,
+          "baseline_win_rate": 0.4,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "希瓦娜 · 龙血武姬",
+          "champion_id": 102,
+          "games": 2,
+          "wins": 1,
+          "baseline_win_rate": 0.4489795918367347,
+          "win_rate": 0.5
+        },
+        {
+          "hero": "库奇 · 英勇投弹手",
+          "champion_id": 42,
+          "games": 2,
+          "wins": 0,
+          "baseline_win_rate": 0.3898305084745763,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "斯卡纳 · 上古领主",
+          "champion_id": 72,
+          "games": 2,
+          "wins": 0,
+          "baseline_win_rate": 0.43478260869565216,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "奈德丽 · 狂野女猎手",
+          "champion_id": 76,
+          "games": 1,
+          "wins": 1,
+          "baseline_win_rate": 0.28,
+          "win_rate": 1.0
+        },
+        {
+          "hero": "杰斯 · 未来守护者",
+          "champion_id": 126,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.3673469387755102,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "维迦 · 邪恶小法师",
+          "champion_id": 45,
+          "games": 1,
+          "wins": 1,
+          "baseline_win_rate": 0.40298507462686567,
+          "win_rate": 1.0
+        },
+        {
+          "hero": "赛娜 · 涤魂圣枪",
+          "champion_id": 235,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4065934065934066,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "辛吉德 · 炼金术士",
+          "champion_id": 27,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.4444444444444444,
+          "win_rate": 0.0
+        },
+        {
+          "hero": "阿萝拉 · 双界灵兔",
+          "champion_id": 893,
+          "games": 1,
+          "wins": 0,
+          "baseline_win_rate": 0.38596491228070173,
+          "win_rate": 0.0
+        }
+      ]
+    }
+  ],
+  "generated_at": "2026-09-19T07:32:02.374467+00:00",
+  "source": "hero-proficiency.json",
+  "scope": "9-person ARAM Mayhem records; not a global win-rate table",
+  "record_count": 6539
+}

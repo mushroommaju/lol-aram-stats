@@ -1,0 +1,7 @@
+restored/
+*.partial
+__pycache__/
+*.sqlite-wal
+*.sqlite-shm
+.DS_Store
+Thumbs.db
