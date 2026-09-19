@@ -1,0 +1,6911 @@
+{
+  "player": {
+    "id": "哑巴狮子#44403",
+    "puuid": "4309d87f-5a8e-5d1d-9763-f6cf32320305",
+    "environment": "TJ101",
+    "start": 291,
+    "done": true
+  },
+  "matches": [
+    {
+      "match_key": "TJ101:TJ101_401114515765",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114515765",
+      "game_id": "401114515765",
+      "start_at_beijing": "2026-09-19T01:59:00+08:00",
+      "end_at_beijing": "2026-09-19T02:14:27+08:00",
+      "duration_seconds": 927,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1133,
+        1026,
+        1074,
+        1084
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114514514",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114514514",
+      "game_id": "401114514514",
+      "start_at_beijing": "2026-09-19T01:37:47+08:00",
+      "end_at_beijing": "2026-09-19T01:57:27+08:00",
+      "duration_seconds": 1180,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2098,
+        2095,
+        1133,
+        1046
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114523079",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114523079",
+      "game_id": "401114523079",
+      "start_at_beijing": "2026-09-19T01:15:57+08:00",
+      "end_at_beijing": "2026-09-19T01:36:16+08:00",
+      "duration_seconds": 1219,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        2103,
+        2131,
+        2128,
+        1195
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114464904",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114464904",
+      "game_id": "401114464904",
+      "start_at_beijing": "2026-09-19T01:01:14+08:00",
+      "end_at_beijing": "2026-09-19T01:14:42+08:00",
+      "duration_seconds": 808,
+      "champion": {
+        "id": 86,
+        "name": "盖伦",
+        "english_name": "Garen",
+        "title": "德玛西亚之力",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        2089,
+        1041,
+        2091,
+        2076
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114485131",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114485131",
+      "game_id": "401114485131",
+      "start_at_beijing": "2026-09-19T00:41:53+08:00",
+      "end_at_beijing": "2026-09-19T00:59:47+08:00",
+      "duration_seconds": 1074,
+      "champion": {
+        "id": 74,
+        "name": "黑默丁格",
+        "english_name": "Heimerdinger",
+        "title": "大发明家",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1390,
+        1030,
+        1345,
+        1113
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114459361",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114459361",
+      "game_id": "401114459361",
+      "start_at_beijing": "2026-09-19T00:30:52+08:00",
+      "end_at_beijing": "2026-09-19T00:39:18+08:00",
+      "duration_seconds": 506,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1390,
+        1237,
+        1068
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114455145",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114455145",
+      "game_id": "401114455145",
+      "start_at_beijing": "2026-09-19T00:19:58+08:00",
+      "end_at_beijing": "2026-09-19T00:29:06+08:00",
+      "duration_seconds": 548,
+      "champion": {
+        "id": 30,
+        "name": "卡尔萨斯",
+        "english_name": "Karthus",
+        "title": "死亡颂唱者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1311,
+        2095,
+        1044
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114404583",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114404583",
+      "game_id": "401114404583",
+      "start_at_beijing": "2026-09-19T00:00:07+08:00",
+      "end_at_beijing": "2026-09-19T00:18:22+08:00",
+      "duration_seconds": 1095,
+      "champion": {
+        "id": 28,
+        "name": "伊芙琳",
+        "english_name": "Evelynn",
+        "title": "痛苦之拥",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1156,
+        2083,
+        1318,
+        1238
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114366910",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114366910",
+      "game_id": "401114366910",
+      "start_at_beijing": "2026-09-18T23:42:45+08:00",
+      "end_at_beijing": "2026-09-18T23:57:17+08:00",
+      "duration_seconds": 872,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1238,
+        2128,
+        2132,
+        1048
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114331723",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114331723",
+      "game_id": "401114331723",
+      "start_at_beijing": "2026-09-18T23:19:36+08:00",
+      "end_at_beijing": "2026-09-18T23:39:53+08:00",
+      "duration_seconds": 1216,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1156,
+        1388,
+        1237,
+        1113
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114294758",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114294758",
+      "game_id": "401114294758",
+      "start_at_beijing": "2026-09-18T23:02:21+08:00",
+      "end_at_beijing": "2026-09-18T23:17:39+08:00",
+      "duration_seconds": 918,
+      "champion": {
+        "id": 910,
+        "name": "彗",
+        "english_name": "Hwei",
+        "title": "异画师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1390,
+        1097,
+        2032,
+        1048
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114291259",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114291259",
+      "game_id": "401114291259",
+      "start_at_beijing": "2026-09-18T22:49:34+08:00",
+      "end_at_beijing": "2026-09-18T22:57:52+08:00",
+      "duration_seconds": 498,
+      "champion": {
+        "id": 235,
+        "name": "赛娜",
+        "english_name": "Senna",
+        "title": "涤魂圣枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1105,
+        2083
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114267325",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114267325",
+      "game_id": "401114267325",
+      "start_at_beijing": "2026-09-18T22:36:48+08:00",
+      "end_at_beijing": "2026-09-18T22:47:51+08:00",
+      "duration_seconds": 663,
+      "champion": {
+        "id": 1,
+        "name": "安妮",
+        "english_name": "Annie",
+        "title": "黑暗之女",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2132,
+        1097,
+        1048
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114208647",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114208647",
+      "game_id": "401114208647",
+      "start_at_beijing": "2026-09-18T22:17:57+08:00",
+      "end_at_beijing": "2026-09-18T22:35:27+08:00",
+      "duration_seconds": 1049,
+      "champion": {
+        "id": 74,
+        "name": "黑默丁格",
+        "english_name": "Heimerdinger",
+        "title": "大发明家",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2103,
+        1045,
+        1151,
+        1133
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114199123",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114199123",
+      "game_id": "401114199123",
+      "start_at_beijing": "2026-09-18T22:01:52+08:00",
+      "end_at_beijing": "2026-09-18T22:16:30+08:00",
+      "duration_seconds": 878,
+      "champion": {
+        "id": 31,
+        "name": "科加斯",
+        "english_name": "Chogath",
+        "title": "虚空恐惧",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        12317,
+        2006,
+        2095,
+        2091
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114132016",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114132016",
+      "game_id": "401114132016",
+      "start_at_beijing": "2026-09-18T21:33:13+08:00",
+      "end_at_beijing": "2026-09-18T21:43:21+08:00",
+      "duration_seconds": 608,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        2010,
+        1129,
+        1087
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401114075387",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401114075387",
+      "game_id": "401114075387",
+      "start_at_beijing": "2026-09-18T21:16:44+08:00",
+      "end_at_beijing": "2026-09-18T21:31:43+08:00",
+      "duration_seconds": 899,
+      "champion": {
+        "id": 31,
+        "name": "科加斯",
+        "english_name": "Chogath",
+        "title": "虚空恐惧",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2091,
+        1319,
+        2123,
+        1333
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401111897809",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401111897809",
+      "game_id": "401111897809",
+      "start_at_beijing": "2026-09-16T23:32:55+08:00",
+      "end_at_beijing": "2026-09-16T23:45:51+08:00",
+      "duration_seconds": 776,
+      "champion": {
+        "id": 90,
+        "name": "玛尔扎哈",
+        "english_name": "Malzahar",
+        "title": "虚空先知",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        2116,
+        2100,
+        1332
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401110740182",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401110740182",
+      "game_id": "401110740182",
+      "start_at_beijing": "2026-09-15T23:59:22+08:00",
+      "end_at_beijing": "2026-09-16T00:20:34+08:00",
+      "duration_seconds": 1272,
+      "champion": {
+        "id": 110,
+        "name": "韦鲁斯",
+        "english_name": "Varus",
+        "title": "惩戒之箭",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2140,
+        2116,
+        1103,
+        1011
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401110722119",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401110722119",
+      "game_id": "401110722119",
+      "start_at_beijing": "2026-09-15T23:45:13+08:00",
+      "end_at_beijing": "2026-09-15T23:56:51+08:00",
+      "duration_seconds": 698,
+      "champion": {
+        "id": 90,
+        "name": "玛尔扎哈",
+        "english_name": "Malzahar",
+        "title": "虚空先知",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2128,
+        2103,
+        1195
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401110651863",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401110651863",
+      "game_id": "401110651863",
+      "start_at_beijing": "2026-09-15T23:24:09+08:00",
+      "end_at_beijing": "2026-09-15T23:43:42+08:00",
+      "duration_seconds": 1173,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1390,
+        1029,
+        1044,
+        1243
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401108161232",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401108161232",
+      "game_id": "401108161232",
+      "start_at_beijing": "2026-09-13T23:57:51+08:00",
+      "end_at_beijing": "2026-09-14T00:14:54+08:00",
+      "duration_seconds": 1023,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2095,
+        1030,
+        1311,
+        2132
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401108090860",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401108090860",
+      "game_id": "401108090860",
+      "start_at_beijing": "2026-09-13T23:37:56+08:00",
+      "end_at_beijing": "2026-09-13T23:56:04+08:00",
+      "duration_seconds": 1087,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1048,
+        2131,
+        2132,
+        1053
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401108069854",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401108069854",
+      "game_id": "401108069854",
+      "start_at_beijing": "2026-09-13T23:26:08+08:00",
+      "end_at_beijing": "2026-09-13T23:35:37+08:00",
+      "duration_seconds": 569,
+      "champion": {
+        "id": 235,
+        "name": "赛娜",
+        "english_name": "Senna",
+        "title": "涤魂圣枪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1081,
+        1087,
+        1007
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401108037533",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401108037533",
+      "game_id": "401108037533",
+      "start_at_beijing": "2026-09-13T23:02:39+08:00",
+      "end_at_beijing": "2026-09-13T23:23:19+08:00",
+      "duration_seconds": 1240,
+      "champion": {
+        "id": 910,
+        "name": "彗",
+        "english_name": "Hwei",
+        "title": "异画师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1156,
+        1133,
+        1237,
+        1030
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401107973527",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401107973527",
+      "game_id": "401107973527",
+      "start_at_beijing": "2026-09-13T22:37:24+08:00",
+      "end_at_beijing": "2026-09-13T23:00:44+08:00",
+      "duration_seconds": 1399,
+      "champion": {
+        "id": 516,
+        "name": "奥恩",
+        "english_name": "Ornn",
+        "title": "山隐之焰",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1041,
+        1013,
+        2006,
+        1181
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401107926683",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401107926683",
+      "game_id": "401107926683",
+      "start_at_beijing": "2026-09-13T22:22:11+08:00",
+      "end_at_beijing": "2026-09-13T22:35:57+08:00",
+      "duration_seconds": 826,
+      "champion": {
+        "id": 68,
+        "name": "兰博",
+        "english_name": "Rumble",
+        "title": "机械公敌",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1156,
+        1152,
+        2132,
+        1020
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401107861723",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401107861723",
+      "game_id": "401107861723",
+      "start_at_beijing": "2026-09-13T22:01:55+08:00",
+      "end_at_beijing": "2026-09-13T22:20:38+08:00",
+      "duration_seconds": 1123,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1332,
+        2103,
+        1045,
+        2132
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401107792881",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401107792881",
+      "game_id": "401107792881",
+      "start_at_beijing": "2026-09-13T21:37:56+08:00",
+      "end_at_beijing": "2026-09-13T22:00:05+08:00",
+      "duration_seconds": 1328,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1388,
+        1390,
+        1133,
+        1072
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401107780124",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401107780124",
+      "game_id": "401107780124",
+      "start_at_beijing": "2026-09-13T21:20:16+08:00",
+      "end_at_beijing": "2026-09-13T21:36:33+08:00",
+      "duration_seconds": 977,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1388,
+        1204,
+        2118,
+        1243
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401107762150",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401107762150",
+      "game_id": "401107762150",
+      "start_at_beijing": "2026-09-13T21:16:42+08:00",
+      "end_at_beijing": "2026-09-13T21:18:53+08:00",
+      "duration_seconds": 131,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1156
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401107668513",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401107668513",
+      "game_id": "401107668513",
+      "start_at_beijing": "2026-09-13T20:48:53+08:00",
+      "end_at_beijing": "2026-09-13T21:14:30+08:00",
+      "duration_seconds": 1537,
+      "champion": {
+        "id": 910,
+        "name": "彗",
+        "english_name": "Hwei",
+        "title": "异画师",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1030,
+        1044,
+        1332,
+        1133
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401107624277",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401107624277",
+      "game_id": "401107624277",
+      "start_at_beijing": "2026-09-13T20:28:17+08:00",
+      "end_at_beijing": "2026-09-13T20:47:29+08:00",
+      "duration_seconds": 1152,
+      "champion": {
+        "id": 235,
+        "name": "赛娜",
+        "english_name": "Senna",
+        "title": "涤魂圣枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1081,
+        1080,
+        1336,
+        1105
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401107607013",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401107607013",
+      "game_id": "401107607013",
+      "start_at_beijing": "2026-09-13T20:16:46+08:00",
+      "end_at_beijing": "2026-09-13T20:26:49+08:00",
+      "duration_seconds": 603,
+      "champion": {
+        "id": 235,
+        "name": "赛娜",
+        "english_name": "Senna",
+        "title": "涤魂圣枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        2010,
+        2141,
+        1062
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401107534350",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401107534350",
+      "game_id": "401107534350",
+      "start_at_beijing": "2026-09-13T19:54:18+08:00",
+      "end_at_beijing": "2026-09-13T20:15:17+08:00",
+      "duration_seconds": 1258,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1156,
+        1074,
+        1068,
+        1030
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401104937929",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401104937929",
+      "game_id": "401104937929",
+      "start_at_beijing": "2026-09-12T01:30:34+08:00",
+      "end_at_beijing": "2026-09-12T01:48:40+08:00",
+      "duration_seconds": 1086,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2077,
+        1152,
+        2006,
+        2026
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401104936721",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401104936721",
+      "game_id": "401104936721",
+      "start_at_beijing": "2026-09-12T01:12:00+08:00",
+      "end_at_beijing": "2026-09-12T01:27:59+08:00",
+      "duration_seconds": 958,
+      "champion": {
+        "id": 875,
+        "name": "瑟提",
+        "english_name": "Sett",
+        "title": "腕豪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1088,
+        1068,
+        1020,
+        1013
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401104972228",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401104972228",
+      "game_id": "401104972228",
+      "start_at_beijing": "2026-09-12T01:01:30+08:00",
+      "end_at_beijing": "2026-09-12T01:10:27+08:00",
+      "duration_seconds": 537,
+      "champion": {
+        "id": 33,
+        "name": "拉莫斯",
+        "english_name": "Rammus",
+        "title": "披甲龙龟",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2006,
+        2026
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401104936141",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401104936141",
+      "game_id": "401104936141",
+      "start_at_beijing": "2026-09-12T00:39:19+08:00",
+      "end_at_beijing": "2026-09-12T00:59:52+08:00",
+      "duration_seconds": 1233,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2140,
+        1022,
+        1328,
+        1071
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401104888608",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401104888608",
+      "game_id": "401104888608",
+      "start_at_beijing": "2026-09-12T00:21:40+08:00",
+      "end_at_beijing": "2026-09-12T00:37:56+08:00",
+      "duration_seconds": 976,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1305,
+        2115,
+        2034,
+        1077
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401104886282",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401104886282",
+      "game_id": "401104886282",
+      "start_at_beijing": "2026-09-12T00:06:50+08:00",
+      "end_at_beijing": "2026-09-12T00:20:05+08:00",
+      "duration_seconds": 795,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        2116,
+        1068,
+        1088,
+        1180
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401104833504",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401104833504",
+      "game_id": "401104833504",
+      "start_at_beijing": "2026-09-11T23:38:51+08:00",
+      "end_at_beijing": "2026-09-12T00:05:22+08:00",
+      "duration_seconds": 1590,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1238,
+        1071,
+        1310,
+        2127
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401104820471",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401104820471",
+      "game_id": "401104820471",
+      "start_at_beijing": "2026-09-11T23:18:07+08:00",
+      "end_at_beijing": "2026-09-11T23:37:31+08:00",
+      "duration_seconds": 1164,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        2103,
+        1029,
+        2129,
+        1133
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401104799264",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401104799264",
+      "game_id": "401104799264",
+      "start_at_beijing": "2026-09-11T23:06:43+08:00",
+      "end_at_beijing": "2026-09-11T23:16:43+08:00",
+      "duration_seconds": 599,
+      "champion": {
+        "id": 875,
+        "name": "瑟提",
+        "english_name": "Sett",
+        "title": "腕豪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1181,
+        1088,
+        1013
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401104723404",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401104723404",
+      "game_id": "401104723404",
+      "start_at_beijing": "2026-09-11T22:40:40+08:00",
+      "end_at_beijing": "2026-09-11T23:04:58+08:00",
+      "duration_seconds": 1458,
+      "champion": {
+        "id": 30,
+        "name": "卡尔萨斯",
+        "english_name": "Karthus",
+        "title": "死亡颂唱者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1390,
+        1105,
+        1084,
+        1403
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401101236288",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401101236288",
+      "game_id": "401101236288",
+      "start_at_beijing": "2026-09-08T23:18:29+08:00",
+      "end_at_beijing": "2026-09-08T23:42:22+08:00",
+      "duration_seconds": 1433,
+      "champion": {
+        "id": 18,
+        "name": "崔丝塔娜",
+        "english_name": "Tristana",
+        "title": "麦林炮手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        2010,
+        1057,
+        2078,
+        1071
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401101187543",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401101187543",
+      "game_id": "401101187543",
+      "start_at_beijing": "2026-09-08T22:56:18+08:00",
+      "end_at_beijing": "2026-09-08T23:16:56+08:00",
+      "duration_seconds": 1238,
+      "champion": {
+        "id": 516,
+        "name": "奥恩",
+        "english_name": "Ornn",
+        "title": "山隐之焰",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1319,
+        1243,
+        1013,
+        2006
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401101132438",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401101132438",
+      "game_id": "401101132438",
+      "start_at_beijing": "2026-09-08T22:24:10+08:00",
+      "end_at_beijing": "2026-09-08T22:51:35+08:00",
+      "duration_seconds": 1648,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2103,
+        1204,
+        1048,
+        2132
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401101073806",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401101073806",
+      "game_id": "401101073806",
+      "start_at_beijing": "2026-09-08T22:06:55+08:00",
+      "end_at_beijing": "2026-09-08T22:22:44+08:00",
+      "duration_seconds": 949,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1045,
+        1390,
+        1211,
+        2073
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401101055109",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401101055109",
+      "game_id": "401101055109",
+      "start_at_beijing": "2026-09-08T21:42:37+08:00",
+      "end_at_beijing": "2026-09-08T22:05:09+08:00",
+      "duration_seconds": 1353,
+      "champion": {
+        "id": 127,
+        "name": "丽桑卓",
+        "english_name": "Lissandra",
+        "title": "冰霜女巫",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2083,
+        1048,
+        1030,
+        2132
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401098843726",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401098843726",
+      "game_id": "401098843726",
+      "start_at_beijing": "2026-09-07T00:01:25+08:00",
+      "end_at_beijing": "2026-09-07T00:23:45+08:00",
+      "duration_seconds": 1340,
+      "champion": {
+        "id": 54,
+        "name": "墨菲特",
+        "english_name": "Malphite",
+        "title": "熔岩巨兽",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1353,
+        1333,
+        2034,
+        2054
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401098836289",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401098836289",
+      "game_id": "401098836289",
+      "start_at_beijing": "2026-09-06T23:41:12+08:00",
+      "end_at_beijing": "2026-09-06T23:59:39+08:00",
+      "duration_seconds": 1106,
+      "champion": {
+        "id": 72,
+        "name": "斯卡纳",
+        "english_name": "Skarner",
+        "title": "上古领主",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1238,
+        1305,
+        1150,
+        2032
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401098801576",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401098801576",
+      "game_id": "401098801576",
+      "start_at_beijing": "2026-09-06T23:26:11+08:00",
+      "end_at_beijing": "2026-09-06T23:37:58+08:00",
+      "duration_seconds": 707,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1390,
+        2018,
+        2062
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401098785299",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401098785299",
+      "game_id": "401098785299",
+      "start_at_beijing": "2026-09-06T23:04:00+08:00",
+      "end_at_beijing": "2026-09-06T23:24:44+08:00",
+      "duration_seconds": 1244,
+      "champion": {
+        "id": 72,
+        "name": "斯卡纳",
+        "english_name": "Skarner",
+        "title": "上古领主",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        2006,
+        2091,
+        1013,
+        1347
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401098723805",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401098723805",
+      "game_id": "401098723805",
+      "start_at_beijing": "2026-09-06T22:46:23+08:00",
+      "end_at_beijing": "2026-09-06T23:01:41+08:00",
+      "duration_seconds": 919,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1053,
+        1046,
+        1195,
+        1238
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401098670795",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401098670795",
+      "game_id": "401098670795",
+      "start_at_beijing": "2026-09-06T22:19:12+08:00",
+      "end_at_beijing": "2026-09-06T22:44:50+08:00",
+      "duration_seconds": 1538,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1068,
+        1204,
+        2073,
+        1048
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401098616844",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401098616844",
+      "game_id": "401098616844",
+      "start_at_beijing": "2026-09-06T21:54:10+08:00",
+      "end_at_beijing": "2026-09-06T22:17:31+08:00",
+      "duration_seconds": 1405,
+      "champion": {
+        "id": 235,
+        "name": "赛娜",
+        "english_name": "Senna",
+        "title": "涤魂圣枪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1238,
+        1047,
+        2024,
+        1150
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401098582666",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401098582666",
+      "game_id": "401098582666",
+      "start_at_beijing": "2026-09-06T21:32:28+08:00",
+      "end_at_beijing": "2026-09-06T21:52:35+08:00",
+      "duration_seconds": 1207,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1097,
+        1133,
+        2072,
+        1068
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401098530977",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401098530977",
+      "game_id": "401098530977",
+      "start_at_beijing": "2026-09-06T21:17:06+08:00",
+      "end_at_beijing": "2026-09-06T21:30:59+08:00",
+      "duration_seconds": 833,
+      "champion": {
+        "id": 42,
+        "name": "库奇",
+        "english_name": "Corki",
+        "title": "英勇投弹手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1081,
+        1068,
+        1047,
+        1416
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401092002380",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401092002380",
+      "game_id": "401092002380",
+      "start_at_beijing": "2026-09-01T22:01:32+08:00",
+      "end_at_beijing": "2026-09-01T22:21:31+08:00",
+      "duration_seconds": 1198,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2132,
+        1156,
+        1311,
+        1326
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401091968370",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401091968370",
+      "game_id": "401091968370",
+      "start_at_beijing": "2026-09-01T21:50:14+08:00",
+      "end_at_beijing": "2026-09-01T21:58:36+08:00",
+      "duration_seconds": 502,
+      "champion": {
+        "id": 32,
+        "name": "阿木木",
+        "english_name": "Amumu",
+        "title": "殇之木乃伊",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1028,
+        1390
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401091907746",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401091907746",
+      "game_id": "401091907746",
+      "start_at_beijing": "2026-09-01T21:30:40+08:00",
+      "end_at_beijing": "2026-09-01T21:48:27+08:00",
+      "duration_seconds": 1066,
+      "champion": {
+        "id": 33,
+        "name": "拉莫斯",
+        "english_name": "Rammus",
+        "title": "披甲龙龟",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1154,
+        2115,
+        1319,
+        2139
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401088123169",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401088123169",
+      "game_id": "401088123169",
+      "start_at_beijing": "2026-08-30T01:10:40+08:00",
+      "end_at_beijing": "2026-08-30T01:32:14+08:00",
+      "duration_seconds": 1293,
+      "champion": {
+        "id": 266,
+        "name": "亚托克斯",
+        "english_name": "Aatrox",
+        "title": "暗裔剑魔",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1237,
+        1152,
+        1333,
+        2065
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401088087151",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401088087151",
+      "game_id": "401088087151",
+      "start_at_beijing": "2026-08-30T00:51:05+08:00",
+      "end_at_beijing": "2026-08-30T01:09:01+08:00",
+      "duration_seconds": 1075,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1156,
+        1044,
+        1097,
+        1113
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401088041417",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401088041417",
+      "game_id": "401088041417",
+      "start_at_beijing": "2026-08-30T00:25:57+08:00",
+      "end_at_beijing": "2026-08-30T00:49:22+08:00",
+      "duration_seconds": 1405,
+      "champion": {
+        "id": 30,
+        "name": "卡尔萨斯",
+        "english_name": "Karthus",
+        "title": "死亡颂唱者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        2095,
+        1390,
+        1084,
+        1332
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401087995800",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401087995800",
+      "game_id": "401087995800",
+      "start_at_beijing": "2026-08-30T00:04:42+08:00",
+      "end_at_beijing": "2026-08-30T00:23:12+08:00",
+      "duration_seconds": 1110,
+      "champion": {
+        "id": 875,
+        "name": "瑟提",
+        "english_name": "Sett",
+        "title": "腕豪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1006,
+        2083,
+        1013,
+        1002
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401087968635",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401087968635",
+      "game_id": "401087968635",
+      "start_at_beijing": "2026-08-29T23:47:33+08:00",
+      "end_at_beijing": "2026-08-30T00:02:55+08:00",
+      "duration_seconds": 922,
+      "champion": {
+        "id": 31,
+        "name": "科加斯",
+        "english_name": "Chogath",
+        "title": "虚空恐惧",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1038,
+        1058,
+        1001,
+        2018
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401087967128",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401087967128",
+      "game_id": "401087967128",
+      "start_at_beijing": "2026-08-29T23:32:10+08:00",
+      "end_at_beijing": "2026-08-29T23:43:24+08:00",
+      "duration_seconds": 674,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1326,
+        1048,
+        1071
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401087916213",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401087916213",
+      "game_id": "401087916213",
+      "start_at_beijing": "2026-08-29T23:10:55+08:00",
+      "end_at_beijing": "2026-08-29T23:30:44+08:00",
+      "duration_seconds": 1189,
+      "champion": {
+        "id": 33,
+        "name": "拉莫斯",
+        "english_name": "Rammus",
+        "title": "披甲龙龟",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1181,
+        1402,
+        1238,
+        1237
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401087887161",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401087887161",
+      "game_id": "401087887161",
+      "start_at_beijing": "2026-08-29T22:50:32+08:00",
+      "end_at_beijing": "2026-08-29T23:09:21+08:00",
+      "duration_seconds": 1129,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1045,
+        1194,
+        2077,
+        1044
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401087829363",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401087829363",
+      "game_id": "401087829363",
+      "start_at_beijing": "2026-08-29T22:32:03+08:00",
+      "end_at_beijing": "2026-08-29T22:47:57+08:00",
+      "duration_seconds": 953,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2119,
+        2088,
+        1011,
+        1030
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401086527194",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401086527194",
+      "game_id": "401086527194",
+      "start_at_beijing": "2026-08-29T00:35:45+08:00",
+      "end_at_beijing": "2026-08-29T00:56:42+08:00",
+      "duration_seconds": 1257,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2102,
+        1403,
+        2076,
+        1384
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401086499580",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401086499580",
+      "game_id": "401086499580",
+      "start_at_beijing": "2026-08-29T00:18:36+08:00",
+      "end_at_beijing": "2026-08-29T00:34:07+08:00",
+      "duration_seconds": 932,
+      "champion": {
+        "id": 120,
+        "name": "赫卡里姆",
+        "english_name": "Hecarim",
+        "title": "战争之影",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1041,
+        1238,
+        1001,
+        1237
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401086469384",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401086469384",
+      "game_id": "401086469384",
+      "start_at_beijing": "2026-08-29T00:00:54+08:00",
+      "end_at_beijing": "2026-08-29T00:17:06+08:00",
+      "duration_seconds": 972,
+      "champion": {
+        "id": 910,
+        "name": "彗",
+        "english_name": "Hwei",
+        "title": "异画师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1133,
+        1030,
+        1056,
+        1088
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401086411785",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401086411785",
+      "game_id": "401086411785",
+      "start_at_beijing": "2026-08-28T23:39:31+08:00",
+      "end_at_beijing": "2026-08-28T23:59:28+08:00",
+      "duration_seconds": 1197,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2103,
+        1156,
+        1056,
+        1195
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401086429059",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401086429059",
+      "game_id": "401086429059",
+      "start_at_beijing": "2026-08-28T23:21:48+08:00",
+      "end_at_beijing": "2026-08-28T23:37:43+08:00",
+      "duration_seconds": 954,
+      "champion": {
+        "id": 33,
+        "name": "拉莫斯",
+        "english_name": "Rammus",
+        "title": "披甲龙龟",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1013,
+        1401,
+        2032,
+        1243
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401086361423",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401086361423",
+      "game_id": "401086361423",
+      "start_at_beijing": "2026-08-28T23:02:40+08:00",
+      "end_at_beijing": "2026-08-28T23:20:08+08:00",
+      "duration_seconds": 1048,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1390,
+        2107,
+        1349,
+        1056
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401086299590",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401086299590",
+      "game_id": "401086299590",
+      "start_at_beijing": "2026-08-28T22:37:38+08:00",
+      "end_at_beijing": "2026-08-28T23:00:58+08:00",
+      "duration_seconds": 1401,
+      "champion": {
+        "id": 33,
+        "name": "拉莫斯",
+        "english_name": "Rammus",
+        "title": "披甲龙龟",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1152,
+        2102,
+        1013,
+        1074
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401082519814",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401082519814",
+      "game_id": "401082519814",
+      "start_at_beijing": "2026-08-25T23:02:59+08:00",
+      "end_at_beijing": "2026-08-25T23:30:36+08:00",
+      "duration_seconds": 1657,
+      "champion": {
+        "id": 875,
+        "name": "瑟提",
+        "english_name": "Sett",
+        "title": "腕豪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1375,
+        1413,
+        1353,
+        1013
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401082518191",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401082518191",
+      "game_id": "401082518191",
+      "start_at_beijing": "2026-08-25T22:42:00+08:00",
+      "end_at_beijing": "2026-08-25T22:59:34+08:00",
+      "duration_seconds": 1053,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2103,
+        1332,
+        1068,
+        1044
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401082420761",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401082420761",
+      "game_id": "401082420761",
+      "start_at_beijing": "2026-08-25T22:08:59+08:00",
+      "end_at_beijing": "2026-08-25T22:40:18+08:00",
+      "duration_seconds": 1879,
+      "champion": {
+        "id": 163,
+        "name": "塔莉垭",
+        "english_name": "Taliyah",
+        "title": "岩雀",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1030,
+        1375,
+        1074,
+        1044
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401082402431",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401082402431",
+      "game_id": "401082402431",
+      "start_at_beijing": "2026-08-25T21:52:17+08:00",
+      "end_at_beijing": "2026-08-25T22:07:27+08:00",
+      "duration_seconds": 909,
+      "champion": {
+        "id": 33,
+        "name": "拉莫斯",
+        "english_name": "Rammus",
+        "title": "披甲龙龟",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2032,
+        2026,
+        1353,
+        1337
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401082368322",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401082368322",
+      "game_id": "401082368322",
+      "start_at_beijing": "2026-08-25T21:34:16+08:00",
+      "end_at_beijing": "2026-08-25T21:50:19+08:00",
+      "duration_seconds": 962,
+      "champion": {
+        "id": 29,
+        "name": "图奇",
+        "english_name": "Twitch",
+        "title": "瘟疫之源",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1996,
+        1206,
+        1336,
+        2009
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401082332535",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401082332535",
+      "game_id": "401082332535",
+      "start_at_beijing": "2026-08-25T21:22:25+08:00",
+      "end_at_beijing": "2026-08-25T21:32:32+08:00",
+      "duration_seconds": 606,
+      "champion": {
+        "id": 63,
+        "name": "布兰德",
+        "english_name": "Brand",
+        "title": "复仇焰魂",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1156,
+        2132,
+        1237
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401081402357",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401081402357",
+      "game_id": "401081402357",
+      "start_at_beijing": "2026-08-24T23:57:44+08:00",
+      "end_at_beijing": "2026-08-25T00:14:03+08:00",
+      "duration_seconds": 978,
+      "champion": {
+        "id": 526,
+        "name": "芮尔",
+        "english_name": "Rell",
+        "title": "镕铁少女",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1353,
+        2102,
+        1301,
+        1011
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401081352857",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401081352857",
+      "game_id": "401081352857",
+      "start_at_beijing": "2026-08-24T23:37:28+08:00",
+      "end_at_beijing": "2026-08-24T23:56:10+08:00",
+      "duration_seconds": 1122,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1044,
+        1045,
+        1305,
+        1018
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401081353233",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401081353233",
+      "game_id": "401081353233",
+      "start_at_beijing": "2026-08-24T23:17:06+08:00",
+      "end_at_beijing": "2026-08-24T23:35:56+08:00",
+      "duration_seconds": 1130,
+      "champion": {
+        "id": 412,
+        "name": "锤石",
+        "english_name": "Thresh",
+        "title": "魂锁典狱长",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2102,
+        1152,
+        1013,
+        2139
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401081315186",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401081315186",
+      "game_id": "401081315186",
+      "start_at_beijing": "2026-08-24T22:52:01+08:00",
+      "end_at_beijing": "2026-08-24T23:13:41+08:00",
+      "duration_seconds": 1300,
+      "champion": {
+        "id": 526,
+        "name": "芮尔",
+        "english_name": "Rell",
+        "title": "镕铁少女",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2127,
+        1152,
+        1041,
+        1353
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401081243725",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401081243725",
+      "game_id": "401081243725",
+      "start_at_beijing": "2026-08-24T22:30:33+08:00",
+      "end_at_beijing": "2026-08-24T22:50:16+08:00",
+      "duration_seconds": 1183,
+      "champion": {
+        "id": 63,
+        "name": "布兰德",
+        "english_name": "Brand",
+        "title": "复仇焰魂",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        2132,
+        1390,
+        1056,
+        1030
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401081245218",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401081245218",
+      "game_id": "401081245218",
+      "start_at_beijing": "2026-08-24T22:16:35+08:00",
+      "end_at_beijing": "2026-08-24T22:26:25+08:00",
+      "duration_seconds": 589,
+      "champion": {
+        "id": 110,
+        "name": "韦鲁斯",
+        "english_name": "Varus",
+        "title": "惩戒之箭",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        2116,
+        1325,
+        2009
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401080140855",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401080140855",
+      "game_id": "401080140855",
+      "start_at_beijing": "2026-08-23T23:37:11+08:00",
+      "end_at_beijing": "2026-08-23T23:54:04+08:00",
+      "duration_seconds": 1013,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1156,
+        1390,
+        2132,
+        1133
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401080149390",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401080149390",
+      "game_id": "401080149390",
+      "start_at_beijing": "2026-08-23T23:24:43+08:00",
+      "end_at_beijing": "2026-08-23T23:35:25+08:00",
+      "duration_seconds": 641,
+      "champion": {
+        "id": 142,
+        "name": "佐伊",
+        "english_name": "Zoe",
+        "title": "暮光星灵",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1156,
+        2132,
+        1243
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401080136131",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401080136131",
+      "game_id": "401080136131",
+      "start_at_beijing": "2026-08-23T23:08:32+08:00",
+      "end_at_beijing": "2026-08-23T23:22:54+08:00",
+      "duration_seconds": 862,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        2127,
+        1156,
+        2098,
+        1205
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401063094987",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401063094987",
+      "game_id": "401063094987",
+      "start_at_beijing": "2026-08-10T21:35:40+08:00",
+      "end_at_beijing": "2026-08-10T21:55:33+08:00",
+      "duration_seconds": 1194,
+      "champion": {
+        "id": 131,
+        "name": "黛安娜",
+        "english_name": "Diana",
+        "title": "皎月女神",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        2064,
+        1403,
+        1029,
+        1332
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401063085356",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401063085356",
+      "game_id": "401063085356",
+      "start_at_beijing": "2026-08-10T21:15:21+08:00",
+      "end_at_beijing": "2026-08-10T21:33:35+08:00",
+      "duration_seconds": 1094,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1375,
+        1044,
+        1149,
+        1025
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401062996865",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401062996865",
+      "game_id": "401062996865",
+      "start_at_beijing": "2026-08-10T20:47:49+08:00",
+      "end_at_beijing": "2026-08-10T21:02:51+08:00",
+      "duration_seconds": 902,
+      "champion": {
+        "id": 901,
+        "name": "斯莫德",
+        "english_name": "Smolder",
+        "title": "炽炎雏龙",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1115,
+        1048,
+        1133,
+        1326
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401062988374",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401062988374",
+      "game_id": "401062988374",
+      "start_at_beijing": "2026-08-10T20:26:14+08:00",
+      "end_at_beijing": "2026-08-10T20:45:58+08:00",
+      "duration_seconds": 1183,
+      "champion": {
+        "id": 111,
+        "name": "诺提勒斯",
+        "english_name": "Nautilus",
+        "title": "深海泰坦",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1413,
+        1152,
+        1353,
+        2006
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401062953335",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401062953335",
+      "game_id": "401062953335",
+      "start_at_beijing": "2026-08-10T20:08:55+08:00",
+      "end_at_beijing": "2026-08-10T20:22:37+08:00",
+      "duration_seconds": 821,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1388,
+        1390,
+        2131,
+        1045
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401062917786",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401062917786",
+      "game_id": "401062917786",
+      "start_at_beijing": "2026-08-10T19:58:09+08:00",
+      "end_at_beijing": "2026-08-10T20:06:57+08:00",
+      "duration_seconds": 528,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        2100,
+        1081
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401062916209",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401062916209",
+      "game_id": "401062916209",
+      "start_at_beijing": "2026-08-10T19:37:00+08:00",
+      "end_at_beijing": "2026-08-10T19:56:23+08:00",
+      "duration_seconds": 1163,
+      "champion": {
+        "id": 163,
+        "name": "塔莉垭",
+        "english_name": "Taliyah",
+        "title": "岩雀",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2129,
+        2132,
+        1030,
+        1044
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401062864702",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401062864702",
+      "game_id": "401062864702",
+      "start_at_beijing": "2026-08-10T19:17:14+08:00",
+      "end_at_beijing": "2026-08-10T19:34:49+08:00",
+      "duration_seconds": 1055,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1390,
+        1051,
+        1056,
+        1105
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401018690047",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401018690047",
+      "game_id": "401018690047",
+      "start_at_beijing": "2026-07-08T00:24:38+08:00",
+      "end_at_beijing": "2026-07-08T00:44:36+08:00",
+      "duration_seconds": 1198,
+      "champion": {
+        "id": 30,
+        "name": "卡尔萨斯",
+        "english_name": "Karthus",
+        "title": "死亡颂唱者",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2116,
+        1390,
+        1211,
+        1030
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401018661210",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401018661210",
+      "game_id": "401018661210",
+      "start_at_beijing": "2026-07-08T00:01:34+08:00",
+      "end_at_beijing": "2026-07-08T00:20:12+08:00",
+      "duration_seconds": 1118,
+      "champion": {
+        "id": 105,
+        "name": "菲兹",
+        "english_name": "Fizz",
+        "title": "潮汐海灵",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1073,
+        1019,
+        1026,
+        1238
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_401018620519",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_401018620519",
+      "game_id": "401018620519",
+      "start_at_beijing": "2026-07-07T23:40:59+08:00",
+      "end_at_beijing": "2026-07-07T23:57:29+08:00",
+      "duration_seconds": 990,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1332,
+        1056,
+        2089,
+        1018
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400991565687",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400991565687",
+      "game_id": "400991565687",
+      "start_at_beijing": "2026-06-17T00:09:05+08:00",
+      "end_at_beijing": "2026-06-17T00:28:19+08:00",
+      "duration_seconds": 1154,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        2062,
+        1133,
+        2132,
+        1105
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400991540624",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400991540624",
+      "game_id": "400991540624",
+      "start_at_beijing": "2026-06-16T23:43:27+08:00",
+      "end_at_beijing": "2026-06-17T00:06:41+08:00",
+      "duration_seconds": 1394,
+      "champion": {
+        "id": 350,
+        "name": "悠米",
+        "english_name": "Yuumi",
+        "title": "魔法猫咪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        2123,
+        1194,
+        1141,
+        1044
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400991499906",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400991499906",
+      "game_id": "400991499906",
+      "start_at_beijing": "2026-06-16T23:22:47+08:00",
+      "end_at_beijing": "2026-06-16T23:41:52+08:00",
+      "duration_seconds": 1145,
+      "champion": {
+        "id": 30,
+        "name": "卡尔萨斯",
+        "english_name": "Karthus",
+        "title": "死亡颂唱者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1133,
+        1044,
+        2018,
+        1084
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400991486446",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400991486446",
+      "game_id": "400991486446",
+      "start_at_beijing": "2026-06-16T23:06:40+08:00",
+      "end_at_beijing": "2026-06-16T23:17:20+08:00",
+      "duration_seconds": 641,
+      "champion": {
+        "id": 222,
+        "name": "金克丝",
+        "english_name": "Jinx",
+        "title": "暴走萝莉",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1225,
+        1087,
+        1336
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400991440528",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400991440528",
+      "game_id": "400991440528",
+      "start_at_beijing": "2026-06-16T22:44:36+08:00",
+      "end_at_beijing": "2026-06-16T23:04:33+08:00",
+      "duration_seconds": 1197,
+      "champion": {
+        "id": 875,
+        "name": "瑟提",
+        "english_name": "Sett",
+        "title": "腕豪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2100,
+        1007,
+        1181,
+        1020
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400990291379",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400990291379",
+      "game_id": "400990291379",
+      "start_at_beijing": "2026-06-15T23:47:44+08:00",
+      "end_at_beijing": "2026-06-16T00:08:35+08:00",
+      "duration_seconds": 1251,
+      "champion": {
+        "id": 222,
+        "name": "金克丝",
+        "english_name": "Jinx",
+        "title": "暴走萝莉",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1071,
+        1225,
+        1022,
+        1081
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400990245641",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400990245641",
+      "game_id": "400990245641",
+      "start_at_beijing": "2026-06-15T23:25:11+08:00",
+      "end_at_beijing": "2026-06-15T23:45:59+08:00",
+      "duration_seconds": 1248,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1156,
+        1133,
+        2132,
+        1045
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400990224537",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400990224537",
+      "game_id": "400990224537",
+      "start_at_beijing": "2026-06-15T23:04:56+08:00",
+      "end_at_beijing": "2026-06-15T23:23:32+08:00",
+      "duration_seconds": 1116,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        2077,
+        1007,
+        1020,
+        1392
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400843283392",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400843283392",
+      "game_id": "400843283392",
+      "start_at_beijing": "2026-02-16T22:30:51+08:00",
+      "end_at_beijing": "2026-02-16T22:58:43+08:00",
+      "duration_seconds": 1671,
+      "champion": {
+        "id": 80,
+        "name": "潘森",
+        "english_name": "Pantheon",
+        "title": "不屈之枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1023,
+        1046,
+        1346,
+        1345
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400843246595",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400843246595",
+      "game_id": "400843246595",
+      "start_at_beijing": "2026-02-16T22:09:39+08:00",
+      "end_at_beijing": "2026-02-16T22:28:33+08:00",
+      "duration_seconds": 1134,
+      "champion": {
+        "id": 222,
+        "name": "金克丝",
+        "english_name": "Jinx",
+        "title": "暴走萝莉",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        2010,
+        1028,
+        1320,
+        1328
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400843234681",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400843234681",
+      "game_id": "400843234681",
+      "start_at_beijing": "2026-02-16T22:02:55+08:00",
+      "end_at_beijing": "2026-02-16T22:05:43+08:00",
+      "duration_seconds": 168,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1028
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400843205784",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400843205784",
+      "game_id": "400843205784",
+      "start_at_beijing": "2026-02-16T21:49:15+08:00",
+      "end_at_beijing": "2026-02-16T22:01:01+08:00",
+      "duration_seconds": 705,
+      "champion": {
+        "id": 154,
+        "name": "扎克",
+        "english_name": "Zac",
+        "title": "生化魔人",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1194,
+        1108,
+        1301
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400843188870",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400843188870",
+      "game_id": "400843188870",
+      "start_at_beijing": "2026-02-16T21:37:50+08:00",
+      "end_at_beijing": "2026-02-16T21:46:22+08:00",
+      "duration_seconds": 512,
+      "champion": {
+        "id": 16,
+        "name": "索拉卡",
+        "english_name": "Soraka",
+        "title": "众星之子",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1095,
+        1331
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400843193205",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400843193205",
+      "game_id": "400843193205",
+      "start_at_beijing": "2026-02-16T21:22:37+08:00",
+      "end_at_beijing": "2026-02-16T21:35:32+08:00",
+      "duration_seconds": 774,
+      "champion": {
+        "id": 901,
+        "name": "斯莫德",
+        "english_name": "Smolder",
+        "title": "炽炎雏龙",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1004
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400843165268",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400843165268",
+      "game_id": "400843165268",
+      "start_at_beijing": "2026-02-16T21:02:38+08:00",
+      "end_at_beijing": "2026-02-16T21:19:13+08:00",
+      "duration_seconds": 995,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        2001,
+        1416,
+        1391,
+        1056
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400843122838",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400843122838",
+      "game_id": "400843122838",
+      "start_at_beijing": "2026-02-16T20:47:40+08:00",
+      "end_at_beijing": "2026-02-16T20:59:41+08:00",
+      "duration_seconds": 721,
+      "champion": {
+        "id": 13,
+        "name": "瑞兹",
+        "english_name": "Ryze",
+        "title": "符文法师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1390,
+        1311,
+        1032
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400835356565",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400835356565",
+      "game_id": "400835356565",
+      "start_at_beijing": "2026-02-10T20:33:12+08:00",
+      "end_at_beijing": "2026-02-10T20:51:00+08:00",
+      "duration_seconds": 1068,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1373,
+        1390,
+        1045,
+        1136
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400835343209",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400835343209",
+      "game_id": "400835343209",
+      "start_at_beijing": "2026-02-10T20:17:28+08:00",
+      "end_at_beijing": "2026-02-10T20:29:50+08:00",
+      "duration_seconds": 742,
+      "champion": {
+        "id": 110,
+        "name": "韦鲁斯",
+        "english_name": "Varus",
+        "title": "惩戒之箭",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1133,
+        1086,
+        1103
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400834383175",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400834383175",
+      "game_id": "400834383175",
+      "start_at_beijing": "2026-02-09T23:34:39+08:00",
+      "end_at_beijing": "2026-02-09T23:49:15+08:00",
+      "duration_seconds": 876,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1310,
+        1156,
+        1402,
+        1400
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400834325570",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400834325570",
+      "game_id": "400834325570",
+      "start_at_beijing": "2026-02-09T23:11:25+08:00",
+      "end_at_beijing": "2026-02-09T23:32:38+08:00",
+      "duration_seconds": 1272,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1152,
+        1181,
+        1048,
+        1025
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400834272933",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400834272933",
+      "game_id": "400834272933",
+      "start_at_beijing": "2026-02-09T22:52:50+08:00",
+      "end_at_beijing": "2026-02-09T23:09:43+08:00",
+      "duration_seconds": 1012,
+      "champion": {
+        "id": 115,
+        "name": "吉格斯",
+        "english_name": "Ziggs",
+        "title": "爆破鬼才",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1038,
+        1029,
+        2001,
+        1406
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400834264018",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400834264018",
+      "game_id": "400834264018",
+      "start_at_beijing": "2026-02-09T22:27:37+08:00",
+      "end_at_beijing": "2026-02-09T22:50:53+08:00",
+      "duration_seconds": 1396,
+      "champion": {
+        "id": 110,
+        "name": "韦鲁斯",
+        "english_name": "Varus",
+        "title": "惩戒之箭",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1029,
+        1205,
+        1403,
+        1077
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400833132410",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400833132410",
+      "game_id": "400833132410",
+      "start_at_beijing": "2026-02-09T01:17:27+08:00",
+      "end_at_beijing": "2026-02-09T01:25:48+08:00",
+      "duration_seconds": 501,
+      "champion": {
+        "id": 110,
+        "name": "韦鲁斯",
+        "english_name": "Varus",
+        "title": "惩戒之箭",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1038,
+        1346
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400833108373",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400833108373",
+      "game_id": "400833108373",
+      "start_at_beijing": "2026-02-09T00:53:35+08:00",
+      "end_at_beijing": "2026-02-09T01:15:23+08:00",
+      "duration_seconds": 1308,
+      "champion": {
+        "id": 57,
+        "name": "茂凯",
+        "english_name": "Maokai",
+        "title": "扭曲树精",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1390,
+        1151,
+        2002,
+        1108
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400833085482",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400833085482",
+      "game_id": "400833085482",
+      "start_at_beijing": "2026-02-09T00:30:51+08:00",
+      "end_at_beijing": "2026-02-09T00:51:40+08:00",
+      "duration_seconds": 1248,
+      "champion": {
+        "id": 30,
+        "name": "卡尔萨斯",
+        "english_name": "Karthus",
+        "title": "死亡颂唱者",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1133,
+        1404,
+        1325,
+        1113
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400833057756",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400833057756",
+      "game_id": "400833057756",
+      "start_at_beijing": "2026-02-09T00:13:20+08:00",
+      "end_at_beijing": "2026-02-09T00:29:00+08:00",
+      "duration_seconds": 940,
+      "champion": {
+        "id": 79,
+        "name": "古拉加斯",
+        "english_name": "Gragas",
+        "title": "酒桶",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1375,
+        1156,
+        1036,
+        1084
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400833044662",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400833044662",
+      "game_id": "400833044662",
+      "start_at_beijing": "2026-02-08T23:59:49+08:00",
+      "end_at_beijing": "2026-02-09T00:11:22+08:00",
+      "duration_seconds": 692,
+      "champion": {
+        "id": 63,
+        "name": "布兰德",
+        "english_name": "Brand",
+        "title": "复仇焰魂",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1390,
+        1373,
+        1045
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400833001725",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400833001725",
+      "game_id": "400833001725",
+      "start_at_beijing": "2026-02-08T23:34:01+08:00",
+      "end_at_beijing": "2026-02-08T23:56:27+08:00",
+      "duration_seconds": 1345,
+      "champion": {
+        "id": 102,
+        "name": "希瓦娜",
+        "english_name": "Shyvana",
+        "title": "龙血武姬",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1353,
+        1181,
+        1048,
+        1390
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400832989009",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400832989009",
+      "game_id": "400832989009",
+      "start_at_beijing": "2026-02-08T23:09:37+08:00",
+      "end_at_beijing": "2026-02-08T23:30:46+08:00",
+      "duration_seconds": 1269,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1133,
+        1038,
+        1009,
+        2001
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400831515819",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400831515819",
+      "game_id": "400831515819",
+      "start_at_beijing": "2026-02-08T00:53:24+08:00",
+      "end_at_beijing": "2026-02-08T01:02:29+08:00",
+      "duration_seconds": 545,
+      "champion": {
+        "id": 266,
+        "name": "亚托克斯",
+        "english_name": "Aatrox",
+        "title": "暗裔剑魔",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1338,
+        1138
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400831507514",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400831507514",
+      "game_id": "400831507514",
+      "start_at_beijing": "2026-02-08T00:33:33+08:00",
+      "end_at_beijing": "2026-02-08T00:51:33+08:00",
+      "duration_seconds": 1080,
+      "champion": {
+        "id": 80,
+        "name": "潘森",
+        "english_name": "Pantheon",
+        "title": "不屈之枪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1346,
+        1338,
+        1206,
+        1403
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400831457904",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400831457904",
+      "game_id": "400831457904",
+      "start_at_beijing": "2026-02-08T00:11:00+08:00",
+      "end_at_beijing": "2026-02-08T00:29:24+08:00",
+      "duration_seconds": 1104,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1156,
+        1391,
+        1056,
+        1390
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400831445576",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400831445576",
+      "game_id": "400831445576",
+      "start_at_beijing": "2026-02-07T23:52:49+08:00",
+      "end_at_beijing": "2026-02-08T00:09:06+08:00",
+      "duration_seconds": 977,
+      "champion": {
+        "id": 420,
+        "name": "俄洛伊",
+        "english_name": "Illaoi",
+        "title": "海兽祭司",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1152,
+        1346,
+        1071
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400831394472",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400831394472",
+      "game_id": "400831394472",
+      "start_at_beijing": "2026-02-07T23:24:11+08:00",
+      "end_at_beijing": "2026-02-07T23:50:56+08:00",
+      "duration_seconds": 1604,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1391,
+        1029,
+        2001,
+        2009
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400831377109",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400831377109",
+      "game_id": "400831377109",
+      "start_at_beijing": "2026-02-07T23:04:13+08:00",
+      "end_at_beijing": "2026-02-07T23:22:05+08:00",
+      "duration_seconds": 1072,
+      "champion": {
+        "id": 254,
+        "name": "蔚",
+        "english_name": "Vi",
+        "title": "皮城执法官",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1319,
+        1384,
+        1353,
+        1087
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400826883630",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400826883630",
+      "game_id": "400826883630",
+      "start_at_beijing": "2026-02-05T01:05:07+08:00",
+      "end_at_beijing": "2026-02-05T01:30:32+08:00",
+      "duration_seconds": 1529,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1211,
+        2002,
+        1133,
+        1409
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400826870485",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400826870485",
+      "game_id": "400826870485",
+      "start_at_beijing": "2026-02-05T00:39:01+08:00",
+      "end_at_beijing": "2026-02-05T01:03:20+08:00",
+      "duration_seconds": 1459,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1390,
+        1129,
+        1054,
+        1107
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400826847507",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400826847507",
+      "game_id": "400826847507",
+      "start_at_beijing": "2026-02-05T00:26:21+08:00",
+      "end_at_beijing": "2026-02-05T00:35:49+08:00",
+      "duration_seconds": 567,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1133,
+        1032
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400826814764",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400826814764",
+      "game_id": "400826814764",
+      "start_at_beijing": "2026-02-05T00:03:31+08:00",
+      "end_at_beijing": "2026-02-05T00:22:49+08:00",
+      "duration_seconds": 1158,
+      "champion": {
+        "id": 102,
+        "name": "希瓦娜",
+        "english_name": "Shyvana",
+        "title": "龙血武姬",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1345,
+        2008,
+        1346,
+        1341
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400826765814",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400826765814",
+      "game_id": "400826765814",
+      "start_at_beijing": "2026-02-04T23:39:41+08:00",
+      "end_at_beijing": "2026-02-05T00:01:26+08:00",
+      "duration_seconds": 1304,
+      "champion": {
+        "id": 51,
+        "name": "凯特琳",
+        "english_name": "Caitlyn",
+        "title": "皮城女警",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1328,
+        1071,
+        2001,
+        1022
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400826714796",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400826714796",
+      "game_id": "400826714796",
+      "start_at_beijing": "2026-02-04T23:14:11+08:00",
+      "end_at_beijing": "2026-02-04T23:36:08+08:00",
+      "duration_seconds": 1317,
+      "champion": {
+        "id": 30,
+        "name": "卡尔萨斯",
+        "english_name": "Karthus",
+        "title": "死亡颂唱者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1025,
+        1310,
+        1311,
+        1032
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400826672930",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400826672930",
+      "game_id": "400826672930",
+      "start_at_beijing": "2026-02-04T22:56:59+08:00",
+      "end_at_beijing": "2026-02-04T23:11:48+08:00",
+      "duration_seconds": 889,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1310,
+        1400,
+        1353,
+        1041
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400826635918",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400826635918",
+      "game_id": "400826635918",
+      "start_at_beijing": "2026-02-04T22:41:13+08:00",
+      "end_at_beijing": "2026-02-04T22:53:14+08:00",
+      "duration_seconds": 722,
+      "champion": {
+        "id": 102,
+        "name": "希瓦娜",
+        "english_name": "Shyvana",
+        "title": "龙血武姬",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1133,
+        1415,
+        1028
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400826597856",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400826597856",
+      "game_id": "400826597856",
+      "start_at_beijing": "2026-02-04T22:21:48+08:00",
+      "end_at_beijing": "2026-02-04T22:37:37+08:00",
+      "duration_seconds": 949,
+      "champion": {
+        "id": 901,
+        "name": "斯莫德",
+        "english_name": "Smolder",
+        "title": "炽炎雏龙",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1113,
+        2009,
+        1081,
+        2024
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400826547392",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400826547392",
+      "game_id": "400826547392",
+      "start_at_beijing": "2026-02-04T21:57:27+08:00",
+      "end_at_beijing": "2026-02-04T22:15:29+08:00",
+      "duration_seconds": 1082,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1047,
+        1129,
+        1328,
+        1389
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400801862480",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400801862480",
+      "game_id": "400801862480",
+      "start_at_beijing": "2026-01-18T20:19:01+08:00",
+      "end_at_beijing": "2026-01-18T20:39:39+08:00",
+      "duration_seconds": 1238,
+      "champion": {
+        "id": 102,
+        "name": "希瓦娜",
+        "english_name": "Shyvana",
+        "title": "龙血武姬",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1156,
+        1071,
+        1180,
+        1238
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400801820661",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400801820661",
+      "game_id": "400801820661",
+      "start_at_beijing": "2026-01-18T20:03:16+08:00",
+      "end_at_beijing": "2026-01-18T20:16:49+08:00",
+      "duration_seconds": 812,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1205,
+        1029,
+        1056
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400801789383",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400801789383",
+      "game_id": "400801789383",
+      "start_at_beijing": "2026-01-18T19:42:40+08:00",
+      "end_at_beijing": "2026-01-18T20:01:13+08:00",
+      "duration_seconds": 1113,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1327,
+        1198,
+        1136,
+        1133
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400799155125",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400799155125",
+      "game_id": "400799155125",
+      "start_at_beijing": "2026-01-17T01:39:35+08:00",
+      "end_at_beijing": "2026-01-17T01:57:43+08:00",
+      "duration_seconds": 1087,
+      "champion": {
+        "id": 80,
+        "name": "潘森",
+        "english_name": "Pantheon",
+        "title": "不屈之枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1032,
+        1187,
+        1105,
+        1064
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400799131344",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400799131344",
+      "game_id": "400799131344",
+      "start_at_beijing": "2026-01-17T01:25:43+08:00",
+      "end_at_beijing": "2026-01-17T01:37:25+08:00",
+      "duration_seconds": 701,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1057,
+        1353,
+        1214
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400799082946",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400799082946",
+      "game_id": "400799082946",
+      "start_at_beijing": "2026-01-17T01:03:32+08:00",
+      "end_at_beijing": "2026-01-17T01:23:14+08:00",
+      "duration_seconds": 1182,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1129,
+        1115,
+        1028,
+        1068
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400799102118",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400799102118",
+      "game_id": "400799102118",
+      "start_at_beijing": "2026-01-17T00:49:21+08:00",
+      "end_at_beijing": "2026-01-17T01:01:21+08:00",
+      "duration_seconds": 719,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1151,
+        1313,
+        1133
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400799080068",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400799080068",
+      "game_id": "400799080068",
+      "start_at_beijing": "2026-01-17T00:27:31+08:00",
+      "end_at_beijing": "2026-01-17T00:47:05+08:00",
+      "duration_seconds": 1173,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1208,
+        1195,
+        1079,
+        1022
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400799013933",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400799013933",
+      "game_id": "400799013933",
+      "start_at_beijing": "2026-01-17T00:07:16+08:00",
+      "end_at_beijing": "2026-01-17T00:24:50+08:00",
+      "duration_seconds": 1054,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1205,
+        1032,
+        1030,
+        1044
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400799017462",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400799017462",
+      "game_id": "400799017462",
+      "start_at_beijing": "2026-01-16T23:56:41+08:00",
+      "end_at_beijing": "2026-01-17T00:05:03+08:00",
+      "duration_seconds": 502,
+      "champion": {
+        "id": 24,
+        "name": "贾克斯",
+        "english_name": "Jax",
+        "title": "武器大师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1054,
+        1238
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400799000064",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400799000064",
+      "game_id": "400799000064",
+      "start_at_beijing": "2026-01-16T23:36:37+08:00",
+      "end_at_beijing": "2026-01-16T23:54:32+08:00",
+      "duration_seconds": 1075,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1323,
+        1211,
+        1334,
+        1345
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400798955401",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400798955401",
+      "game_id": "400798955401",
+      "start_at_beijing": "2026-01-16T23:20:35+08:00",
+      "end_at_beijing": "2026-01-16T23:34:35+08:00",
+      "duration_seconds": 840,
+      "champion": {
+        "id": 30,
+        "name": "卡尔萨斯",
+        "english_name": "Karthus",
+        "title": "死亡颂唱者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1156,
+        1044,
+        1028,
+        1025
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400798898752",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400798898752",
+      "game_id": "400798898752",
+      "start_at_beijing": "2026-01-16T22:58:55+08:00",
+      "end_at_beijing": "2026-01-16T23:18:03+08:00",
+      "duration_seconds": 1148,
+      "champion": {
+        "id": 81,
+        "name": "伊泽瑞尔",
+        "english_name": "Ezreal",
+        "title": "探险家",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1320,
+        1225,
+        1138,
+        1107
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400790348601",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400790348601",
+      "game_id": "400790348601",
+      "start_at_beijing": "2026-01-11T00:35:46+08:00",
+      "end_at_beijing": "2026-01-11T00:58:48+08:00",
+      "duration_seconds": 1382,
+      "champion": {
+        "id": 235,
+        "name": "赛娜",
+        "english_name": "Senna",
+        "title": "涤魂圣枪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1336,
+        1079,
+        1071,
+        1032
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400790340322",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400790340322",
+      "game_id": "400790340322",
+      "start_at_beijing": "2026-01-11T00:20:03+08:00",
+      "end_at_beijing": "2026-01-11T00:33:51+08:00",
+      "duration_seconds": 828,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1032,
+        1080,
+        1115
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400790273950",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400790273950",
+      "game_id": "400790273950",
+      "start_at_beijing": "2026-01-11T00:00:25+08:00",
+      "end_at_beijing": "2026-01-11T00:18:16+08:00",
+      "duration_seconds": 1070,
+      "champion": {
+        "id": 54,
+        "name": "墨菲特",
+        "english_name": "Malphite",
+        "title": "熔岩巨兽",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1030,
+        1044,
+        1353,
+        1238
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400790258695",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400790258695",
+      "game_id": "400790258695",
+      "start_at_beijing": "2026-01-10T23:41:19+08:00",
+      "end_at_beijing": "2026-01-10T23:58:20+08:00",
+      "duration_seconds": 1020,
+      "champion": {
+        "id": 80,
+        "name": "潘森",
+        "english_name": "Pantheon",
+        "title": "不屈之枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1029,
+        1152,
+        1103,
+        1019
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400787837520",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400787837520",
+      "game_id": "400787837520",
+      "start_at_beijing": "2026-01-09T17:33:47+08:00",
+      "end_at_beijing": "2026-01-09T17:50:56+08:00",
+      "duration_seconds": 1029,
+      "champion": {
+        "id": 74,
+        "name": "黑默丁格",
+        "english_name": "Heimerdinger",
+        "title": "大发明家",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1133,
+        1044,
+        1045,
+        1062
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400787831069",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400787831069",
+      "game_id": "400787831069",
+      "start_at_beijing": "2026-01-09T17:17:21+08:00",
+      "end_at_beijing": "2026-01-09T17:29:47+08:00",
+      "duration_seconds": 746,
+      "champion": {
+        "id": 63,
+        "name": "布兰德",
+        "english_name": "Brand",
+        "title": "复仇焰魂",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1045,
+        1156,
+        1044
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400771360861",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400771360861",
+      "game_id": "400771360861",
+      "start_at_beijing": "2025-12-29T00:29:15+08:00",
+      "end_at_beijing": "2025-12-29T00:40:09+08:00",
+      "duration_seconds": 654,
+      "champion": {
+        "id": 875,
+        "name": "瑟提",
+        "english_name": "Sett",
+        "title": "腕豪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1313,
+        1181,
+        1353
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400771335925",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400771335925",
+      "game_id": "400771335925",
+      "start_at_beijing": "2025-12-29T00:10:05+08:00",
+      "end_at_beijing": "2025-12-29T00:27:08+08:00",
+      "duration_seconds": 1024,
+      "champion": {
+        "id": 63,
+        "name": "布兰德",
+        "english_name": "Brand",
+        "title": "复仇焰魂",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1205,
+        1045,
+        1056,
+        1048
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400771333430",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400771333430",
+      "game_id": "400771333430",
+      "start_at_beijing": "2025-12-28T23:50:36+08:00",
+      "end_at_beijing": "2025-12-29T00:06:16+08:00",
+      "duration_seconds": 939,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1044,
+        1151,
+        1133,
+        1048
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400768167564",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400768167564",
+      "game_id": "400768167564",
+      "start_at_beijing": "2025-12-27T00:03:48+08:00",
+      "end_at_beijing": "2025-12-27T00:23:48+08:00",
+      "duration_seconds": 1200,
+      "champion": {
+        "id": 875,
+        "name": "瑟提",
+        "english_name": "Sett",
+        "title": "腕豪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1317,
+        1032,
+        1046,
+        1206
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400768140187",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400768140187",
+      "game_id": "400768140187",
+      "start_at_beijing": "2025-12-26T23:40:35+08:00",
+      "end_at_beijing": "2025-12-27T00:01:42+08:00",
+      "duration_seconds": 1266,
+      "champion": {
+        "id": 120,
+        "name": "赫卡里姆",
+        "english_name": "Hecarim",
+        "title": "战争之影",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1064,
+        1214,
+        1324,
+        1028
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400768103340",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400768103340",
+      "game_id": "400768103340",
+      "start_at_beijing": "2025-12-26T23:23:08+08:00",
+      "end_at_beijing": "2025-12-26T23:38:14+08:00",
+      "duration_seconds": 905,
+      "champion": {
+        "id": 119,
+        "name": "德莱文",
+        "english_name": "Draven",
+        "title": "荣耀行刑官",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1336,
+        1115,
+        1330,
+        1138
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400760822462",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400760822462",
+      "game_id": "400760822462",
+      "start_at_beijing": "2025-12-21T19:46:12+08:00",
+      "end_at_beijing": "2025-12-21T20:05:52+08:00",
+      "duration_seconds": 1180,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1133,
+        1318,
+        1334,
+        1048
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400760778409",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400760778409",
+      "game_id": "400760778409",
+      "start_at_beijing": "2025-12-21T19:22:45+08:00",
+      "end_at_beijing": "2025-12-21T19:44:16+08:00",
+      "duration_seconds": 1290,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1133,
+        1138,
+        1048,
+        1077
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400760724924",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400760724924",
+      "game_id": "400760724924",
+      "start_at_beijing": "2025-12-21T19:05:49+08:00",
+      "end_at_beijing": "2025-12-21T19:20:31+08:00",
+      "duration_seconds": 882,
+      "champion": {
+        "id": 115,
+        "name": "吉格斯",
+        "english_name": "Ziggs",
+        "title": "爆破鬼才",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1084,
+        1156,
+        1334,
+        1205
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400759834539",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400759834539",
+      "game_id": "400759834539",
+      "start_at_beijing": "2025-12-21T01:08:23+08:00",
+      "end_at_beijing": "2025-12-21T01:31:59+08:00",
+      "duration_seconds": 1416,
+      "champion": {
+        "id": 30,
+        "name": "卡尔萨斯",
+        "english_name": "Karthus",
+        "title": "死亡颂唱者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1045,
+        1028,
+        1084,
+        1205
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400759825012",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400759825012",
+      "game_id": "400759825012",
+      "start_at_beijing": "2025-12-21T00:43:42+08:00",
+      "end_at_beijing": "2025-12-21T01:06:13+08:00",
+      "duration_seconds": 1350,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1048,
+        1238,
+        1042,
+        1047
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400759757827",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400759757827",
+      "game_id": "400759757827",
+      "start_at_beijing": "2025-12-21T00:26:16+08:00",
+      "end_at_beijing": "2025-12-21T00:39:57+08:00",
+      "duration_seconds": 820,
+      "champion": {
+        "id": 221,
+        "name": "泽丽",
+        "english_name": "Zeri",
+        "title": "祖安花火",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1996,
+        1071,
+        1243,
+        1107
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400759742837",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400759742837",
+      "game_id": "400759742837",
+      "start_at_beijing": "2025-12-21T00:07:22+08:00",
+      "end_at_beijing": "2025-12-21T00:23:46+08:00",
+      "duration_seconds": 984,
+      "champion": {
+        "id": 236,
+        "name": "卢锡安",
+        "english_name": "Lucian",
+        "title": "圣枪游侠",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1134,
+        1022,
+        1322,
+        1052
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400759710671",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400759710671",
+      "game_id": "400759710671",
+      "start_at_beijing": "2025-12-20T23:45:43+08:00",
+      "end_at_beijing": "2025-12-21T00:04:58+08:00",
+      "duration_seconds": 1154,
+      "champion": {
+        "id": 412,
+        "name": "锤石",
+        "english_name": "Thresh",
+        "title": "魂锁典狱长",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1107,
+        1060,
+        1353,
+        1339
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400759686403",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400759686403",
+      "game_id": "400759686403",
+      "start_at_beijing": "2025-12-20T23:27:05+08:00",
+      "end_at_beijing": "2025-12-20T23:43:51+08:00",
+      "duration_seconds": 1006,
+      "champion": {
+        "id": 90,
+        "name": "玛尔扎哈",
+        "english_name": "Malzahar",
+        "title": "虚空先知",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1133,
+        1301,
+        1084,
+        1311
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400759641635",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400759641635",
+      "game_id": "400759641635",
+      "start_at_beijing": "2025-12-20T23:10:44+08:00",
+      "end_at_beijing": "2025-12-20T23:25:16+08:00",
+      "duration_seconds": 871,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1030,
+        1084,
+        1056,
+        1113
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400759577788",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400759577788",
+      "game_id": "400759577788",
+      "start_at_beijing": "2025-12-20T22:42:15+08:00",
+      "end_at_beijing": "2025-12-20T23:05:59+08:00",
+      "duration_seconds": 1424,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1081,
+        1097,
+        1305,
+        1028
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400756676664",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400756676664",
+      "game_id": "400756676664",
+      "start_at_beijing": "2025-12-18T23:03:17+08:00",
+      "end_at_beijing": "2025-12-18T23:23:57+08:00",
+      "duration_seconds": 1240,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1156,
+        1318,
+        1045,
+        1133
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400756634636",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400756634636",
+      "game_id": "400756634636",
+      "start_at_beijing": "2025-12-18T22:41:13+08:00",
+      "end_at_beijing": "2025-12-18T23:00:34+08:00",
+      "duration_seconds": 1161,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1084,
+        1105,
+        1032,
+        1133
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400756602263",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400756602263",
+      "game_id": "400756602263",
+      "start_at_beijing": "2025-12-18T22:16:56+08:00",
+      "end_at_beijing": "2025-12-18T22:39:11+08:00",
+      "duration_seconds": 1335,
+      "champion": {
+        "id": 63,
+        "name": "布兰德",
+        "english_name": "Brand",
+        "title": "复仇焰魂",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1036,
+        1048,
+        1346,
+        1345
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400756552148",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400756552148",
+      "game_id": "400756552148",
+      "start_at_beijing": "2025-12-18T21:55:10+08:00",
+      "end_at_beijing": "2025-12-18T22:14:38+08:00",
+      "duration_seconds": 1167,
+      "champion": {
+        "id": 90,
+        "name": "玛尔扎哈",
+        "english_name": "Malzahar",
+        "title": "虚空先知",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1020,
+        1044,
+        1045,
+        1009
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400756505012",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400756505012",
+      "game_id": "400756505012",
+      "start_at_beijing": "2025-12-18T21:34:39+08:00",
+      "end_at_beijing": "2025-12-18T21:52:32+08:00",
+      "duration_seconds": 1072,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1151,
+        1032,
+        1044,
+        1056
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400756405494",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400756405494",
+      "game_id": "400756405494",
+      "start_at_beijing": "2025-12-18T21:06:51+08:00",
+      "end_at_beijing": "2025-12-18T21:32:18+08:00",
+      "duration_seconds": 1527,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1324,
+        1138,
+        1028,
+        1181
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400756355817",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400756355817",
+      "game_id": "400756355817",
+      "start_at_beijing": "2025-12-18T20:47:03+08:00",
+      "end_at_beijing": "2025-12-18T21:03:24+08:00",
+      "duration_seconds": 981,
+      "champion": {
+        "id": 236,
+        "name": "卢锡安",
+        "english_name": "Lucian",
+        "title": "圣枪游侠",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1113,
+        1320,
+        1315,
+        1081
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400756325312",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400756325312",
+      "game_id": "400756325312",
+      "start_at_beijing": "2025-12-18T20:27:54+08:00",
+      "end_at_beijing": "2025-12-18T20:43:21+08:00",
+      "duration_seconds": 927,
+      "champion": {
+        "id": 51,
+        "name": "凯特琳",
+        "english_name": "Caitlyn",
+        "title": "皮城女警",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1007,
+        1071,
+        1022,
+        1028
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400756275523",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400756275523",
+      "game_id": "400756275523",
+      "start_at_beijing": "2025-12-18T20:10:44+08:00",
+      "end_at_beijing": "2025-12-18T20:25:14+08:00",
+      "duration_seconds": 870,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1045,
+        1133,
+        1048,
+        1092
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400753950592",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400753950592",
+      "game_id": "400753950592",
+      "start_at_beijing": "2025-12-16T23:11:22+08:00",
+      "end_at_beijing": "2025-12-16T23:23:09+08:00",
+      "duration_seconds": 707,
+      "champion": {
+        "id": 14,
+        "name": "赛恩",
+        "english_name": "Sion",
+        "title": "亡灵战神",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1250,
+        1006,
+        1181
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400753934663",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400753934663",
+      "game_id": "400753934663",
+      "start_at_beijing": "2025-12-16T22:54:36+08:00",
+      "end_at_beijing": "2025-12-16T23:08:54+08:00",
+      "duration_seconds": 857,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1344,
+        1149,
+        1044
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400753924181",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400753924181",
+      "game_id": "400753924181",
+      "start_at_beijing": "2025-12-16T22:43:18+08:00",
+      "end_at_beijing": "2025-12-16T22:51:43+08:00",
+      "duration_seconds": 505,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1133,
+        1341
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400753861887",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400753861887",
+      "game_id": "400753861887",
+      "start_at_beijing": "2025-12-16T22:21:13+08:00",
+      "end_at_beijing": "2025-12-16T22:41:12+08:00",
+      "duration_seconds": 1199,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1353,
+        1133,
+        1181,
+        1068
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400742025236",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400742025236",
+      "game_id": "400742025236",
+      "start_at_beijing": "2025-12-08T23:41:41+08:00",
+      "end_at_beijing": "2025-12-08T23:57:49+08:00",
+      "duration_seconds": 968,
+      "champion": {
+        "id": 51,
+        "name": "凯特琳",
+        "english_name": "Caitlyn",
+        "title": "皮城女警",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1320,
+        1326,
+        1322,
+        1052
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400741962996",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400741962996",
+      "game_id": "400741962996",
+      "start_at_beijing": "2025-12-08T23:22:58+08:00",
+      "end_at_beijing": "2025-12-08T23:39:19+08:00",
+      "duration_seconds": 980,
+      "champion": {
+        "id": 51,
+        "name": "凯特琳",
+        "english_name": "Caitlyn",
+        "title": "皮城女警",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1225,
+        1346,
+        1052,
+        1328
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400741933556",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400741933556",
+      "game_id": "400741933556",
+      "start_at_beijing": "2025-12-08T23:00:22+08:00",
+      "end_at_beijing": "2025-12-08T23:15:10+08:00",
+      "duration_seconds": 887,
+      "champion": {
+        "id": 901,
+        "name": "斯莫德",
+        "english_name": "Smolder",
+        "title": "炽炎雏龙",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1048,
+        1074,
+        1346
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400741879672",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400741879672",
+      "game_id": "400741879672",
+      "start_at_beijing": "2025-12-08T22:35:22+08:00",
+      "end_at_beijing": "2025-12-08T22:55:26+08:00",
+      "duration_seconds": 1203,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1050,
+        1022,
+        1115,
+        1074
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400741815961",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400741815961",
+      "game_id": "400741815961",
+      "start_at_beijing": "2025-12-08T22:17:12+08:00",
+      "end_at_beijing": "2025-12-08T22:33:05+08:00",
+      "duration_seconds": 952,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1032,
+        1138,
+        1045,
+        1056
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400741825080",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400741825080",
+      "game_id": "400741825080",
+      "start_at_beijing": "2025-12-08T22:05:33+08:00",
+      "end_at_beijing": "2025-12-08T22:15:03+08:00",
+      "duration_seconds": 569,
+      "champion": {
+        "id": 18,
+        "name": "崔丝塔娜",
+        "english_name": "Tristana",
+        "title": "麦林炮手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1047,
+        1115,
+        1022
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400741776087",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400741776087",
+      "game_id": "400741776087",
+      "start_at_beijing": "2025-12-08T21:47:56+08:00",
+      "end_at_beijing": "2025-12-08T22:03:25+08:00",
+      "duration_seconds": 929,
+      "champion": {
+        "id": 13,
+        "name": "瑞兹",
+        "english_name": "Ryze",
+        "title": "符文法师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1205,
+        1030,
+        1048,
+        1042
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400741714233",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400741714233",
+      "game_id": "400741714233",
+      "start_at_beijing": "2025-12-08T21:26:16+08:00",
+      "end_at_beijing": "2025-12-08T21:45:21+08:00",
+      "duration_seconds": 1144,
+      "champion": {
+        "id": 163,
+        "name": "塔莉垭",
+        "english_name": "Taliyah",
+        "title": "岩雀",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1129,
+        1045,
+        1133,
+        1098
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400733591132",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400733591132",
+      "game_id": "400733591132",
+      "start_at_beijing": "2025-12-03T23:38:33+08:00",
+      "end_at_beijing": "2025-12-03T23:56:42+08:00",
+      "duration_seconds": 1088,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1044,
+        1311,
+        1133,
+        1045
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400732359117",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400732359117",
+      "game_id": "400732359117",
+      "start_at_beijing": "2025-12-02T23:46:59+08:00",
+      "end_at_beijing": "2025-12-03T00:04:50+08:00",
+      "duration_seconds": 1070,
+      "champion": {
+        "id": 80,
+        "name": "潘森",
+        "english_name": "Pantheon",
+        "title": "不屈之枪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1301,
+        1320,
+        1004,
+        1315
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400732280903",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400732280903",
+      "game_id": "400732280903",
+      "start_at_beijing": "2025-12-02T23:19:54+08:00",
+      "end_at_beijing": "2025-12-02T23:44:22+08:00",
+      "duration_seconds": 1467,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1032,
+        1136,
+        1195,
+        1180
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400732257844",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400732257844",
+      "game_id": "400732257844",
+      "start_at_beijing": "2025-12-02T23:01:13+08:00",
+      "end_at_beijing": "2025-12-02T23:16:48+08:00",
+      "duration_seconds": 934,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1107,
+        1320,
+        1077
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400732212852",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400732212852",
+      "game_id": "400732212852",
+      "start_at_beijing": "2025-12-02T22:38:36+08:00",
+      "end_at_beijing": "2025-12-02T22:58:26+08:00",
+      "duration_seconds": 1190,
+      "champion": {
+        "id": 163,
+        "name": "塔莉垭",
+        "english_name": "Taliyah",
+        "title": "岩雀",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1084,
+        1064,
+        1030,
+        1334
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400732157893",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400732157893",
+      "game_id": "400732157893",
+      "start_at_beijing": "2025-12-02T22:14:07+08:00",
+      "end_at_beijing": "2025-12-02T22:36:19+08:00",
+      "duration_seconds": 1332,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1211,
+        1332,
+        1243,
+        1032,
+        1045
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400728298134",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400728298134",
+      "game_id": "400728298134",
+      "start_at_beijing": "2025-11-29T23:38:49+08:00",
+      "end_at_beijing": "2025-11-29T23:48:50+08:00",
+      "duration_seconds": 601,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1156,
+        1237,
+        1022
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400728252299",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400728252299",
+      "game_id": "400728252299",
+      "start_at_beijing": "2025-11-29T23:19:53+08:00",
+      "end_at_beijing": "2025-11-29T23:36:17+08:00",
+      "duration_seconds": 984,
+      "champion": {
+        "id": 904,
+        "name": "亚恒",
+        "english_name": "Zaahen",
+        "title": "不落魔锋",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1064,
+        1077,
+        1115,
+        1007
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400728190640",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400728190640",
+      "game_id": "400728190640",
+      "start_at_beijing": "2025-11-29T22:55:26+08:00",
+      "end_at_beijing": "2025-11-29T23:15:10+08:00",
+      "duration_seconds": 1184,
+      "champion": {
+        "id": 901,
+        "name": "斯莫德",
+        "english_name": "Smolder",
+        "title": "炽炎雏龙",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1138,
+        1107,
+        1080,
+        1007
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400728124858",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400728124858",
+      "game_id": "400728124858",
+      "start_at_beijing": "2025-11-29T22:28:27+08:00",
+      "end_at_beijing": "2025-11-29T22:52:22+08:00",
+      "duration_seconds": 1435,
+      "champion": {
+        "id": 41,
+        "name": "普朗克",
+        "english_name": "Gangplank",
+        "title": "海洋之灾",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1138,
+        1225,
+        1082,
+        1007
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400728092169",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400728092169",
+      "game_id": "400728092169",
+      "start_at_beijing": "2025-11-29T22:04:18+08:00",
+      "end_at_beijing": "2025-11-29T22:25:55+08:00",
+      "duration_seconds": 1297,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1032,
+        1345,
+        1048,
+        1074
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400728009850",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400728009850",
+      "game_id": "400728009850",
+      "start_at_beijing": "2025-11-29T21:41:07+08:00",
+      "end_at_beijing": "2025-11-29T22:01:01+08:00",
+      "duration_seconds": 1194,
+      "champion": {
+        "id": 904,
+        "name": "亚恒",
+        "english_name": "Zaahen",
+        "title": "不落魔锋",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1225,
+        1088,
+        1345,
+        1019
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400726953201",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400726953201",
+      "game_id": "400726953201",
+      "start_at_beijing": "2025-11-29T01:20:43+08:00",
+      "end_at_beijing": "2025-11-29T01:41:45+08:00",
+      "duration_seconds": 1262,
+      "champion": {
+        "id": 901,
+        "name": "斯莫德",
+        "english_name": "Smolder",
+        "title": "炽炎雏龙",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1103,
+        1170,
+        1328,
+        1334
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400726909604",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400726909604",
+      "game_id": "400726909604",
+      "start_at_beijing": "2025-11-29T00:51:59+08:00",
+      "end_at_beijing": "2025-11-29T01:17:18+08:00",
+      "duration_seconds": 1519,
+      "champion": {
+        "id": 8,
+        "name": "弗拉基米尔",
+        "english_name": "Vladimir",
+        "title": "猩红收割者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1152,
+        1238,
+        1015,
+        1103
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400726899303",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400726899303",
+      "game_id": "400726899303",
+      "start_at_beijing": "2025-11-29T00:33:20+08:00",
+      "end_at_beijing": "2025-11-29T00:49:42+08:00",
+      "duration_seconds": 982,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1335,
+        1349,
+        1002,
+        1327
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400726868692",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400726868692",
+      "game_id": "400726868692",
+      "start_at_beijing": "2025-11-29T00:18:16+08:00",
+      "end_at_beijing": "2025-11-29T00:31:17+08:00",
+      "duration_seconds": 781,
+      "champion": {
+        "id": 141,
+        "name": "凯隐",
+        "english_name": "Kayn",
+        "title": "影流之镰",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1032,
+        1063,
+        1077
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400726875143",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400726875143",
+      "game_id": "400726875143",
+      "start_at_beijing": "2025-11-29T00:03:44+08:00",
+      "end_at_beijing": "2025-11-29T00:16:03+08:00",
+      "duration_seconds": 738,
+      "champion": {
+        "id": 235,
+        "name": "赛娜",
+        "english_name": "Senna",
+        "title": "涤魂圣枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1336,
+        1052,
+        1020
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400726837283",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400726837283",
+      "game_id": "400726837283",
+      "start_at_beijing": "2025-11-28T23:44:24+08:00",
+      "end_at_beijing": "2025-11-29T00:01:27+08:00",
+      "duration_seconds": 1023,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1044,
+        1084,
+        1211,
+        1048
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400725221562",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400725221562",
+      "game_id": "400725221562",
+      "start_at_beijing": "2025-11-27T21:10:13+08:00",
+      "end_at_beijing": "2025-11-27T21:12:17+08:00",
+      "duration_seconds": 124,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1332
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400725182573",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400725182573",
+      "game_id": "400725182573",
+      "start_at_beijing": "2025-11-27T20:48:59+08:00",
+      "end_at_beijing": "2025-11-27T21:04:28+08:00",
+      "duration_seconds": 929,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1052,
+        1029,
+        1328,
+        1077
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400724162252",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400724162252",
+      "game_id": "400724162252",
+      "start_at_beijing": "2025-11-26T22:23:33+08:00",
+      "end_at_beijing": "2025-11-26T22:43:05+08:00",
+      "duration_seconds": 1171,
+      "champion": {
+        "id": 30,
+        "name": "卡尔萨斯",
+        "english_name": "Karthus",
+        "title": "死亡颂唱者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1048,
+        1238,
+        1080,
+        1044
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400724095507",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400724095507",
+      "game_id": "400724095507",
+      "start_at_beijing": "2025-11-26T21:59:37+08:00",
+      "end_at_beijing": "2025-11-26T22:21:20+08:00",
+      "duration_seconds": 1303,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1345,
+        1045,
+        1237,
+        1056
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400724065462",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400724065462",
+      "game_id": "400724065462",
+      "start_at_beijing": "2025-11-26T21:46:37+08:00",
+      "end_at_beijing": "2025-11-26T21:57:16+08:00",
+      "duration_seconds": 638,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1346,
+        1036,
+        1045
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400723975987",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400723975987",
+      "game_id": "400723975987",
+      "start_at_beijing": "2025-11-26T21:18:06+08:00",
+      "end_at_beijing": "2025-11-26T21:44:40+08:00",
+      "duration_seconds": 1594,
+      "champion": {
+        "id": 517,
+        "name": "塞拉斯",
+        "english_name": "Sylas",
+        "title": "解脱者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1029,
+        1238,
+        1064,
+        1332
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400723941835",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400723941835",
+      "game_id": "400723941835",
+      "start_at_beijing": "2025-11-26T21:00:59+08:00",
+      "end_at_beijing": "2025-11-26T21:14:22+08:00",
+      "duration_seconds": 803,
+      "champion": {
+        "id": 50,
+        "name": "斯维因",
+        "english_name": "Swain",
+        "title": "诺克萨斯统领",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1067,
+        1028,
+        1136
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400723916156",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400723916156",
+      "game_id": "400723916156",
+      "start_at_beijing": "2025-11-26T20:35:22+08:00",
+      "end_at_beijing": "2025-11-26T20:58:23+08:00",
+      "duration_seconds": 1380,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1133,
+        1107,
+        1205,
+        1074
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400723853360",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400723853360",
+      "game_id": "400723853360",
+      "start_at_beijing": "2025-11-26T20:11:54+08:00",
+      "end_at_beijing": "2025-11-26T20:31:04+08:00",
+      "duration_seconds": 1149,
+      "champion": {
+        "id": 10,
+        "name": "凯尔",
+        "english_name": "Kayle",
+        "title": "正义天使",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1071,
+        1036,
+        1206,
+        1047
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400723746209",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400723746209",
+      "game_id": "400723746209",
+      "start_at_beijing": "2025-11-26T19:06:07+08:00",
+      "end_at_beijing": "2025-11-26T19:21:05+08:00",
+      "duration_seconds": 898,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1338,
+        1313,
+        1041,
+        1151
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400723717303",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400723717303",
+      "game_id": "400723717303",
+      "start_at_beijing": "2025-11-26T18:48:42+08:00",
+      "end_at_beijing": "2025-11-26T19:03:25+08:00",
+      "duration_seconds": 882,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1325,
+        1098,
+        1346,
+        1238
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400723683409",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400723683409",
+      "game_id": "400723683409",
+      "start_at_beijing": "2025-11-26T18:25:27+08:00",
+      "end_at_beijing": "2025-11-26T18:39:41+08:00",
+      "duration_seconds": 854,
+      "champion": {
+        "id": 222,
+        "name": "金克丝",
+        "english_name": "Jinx",
+        "title": "暴走萝莉",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1225,
+        1058,
+        1047,
+        1022
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400723670083",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400723670083",
+      "game_id": "400723670083",
+      "start_at_beijing": "2025-11-26T18:04:11+08:00",
+      "end_at_beijing": "2025-11-26T18:23:06+08:00",
+      "duration_seconds": 1135,
+      "champion": {
+        "id": 67,
+        "name": "薇恩",
+        "english_name": "Vayne",
+        "title": "暗夜猎手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1338,
+        1077,
+        1328,
+        1138
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400723009325",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400723009325",
+      "game_id": "400723009325",
+      "start_at_beijing": "2025-11-25T23:24:38+08:00",
+      "end_at_beijing": "2025-11-25T23:47:15+08:00",
+      "duration_seconds": 1356,
+      "champion": {
+        "id": 901,
+        "name": "斯莫德",
+        "english_name": "Smolder",
+        "title": "炽炎雏龙",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1045,
+        1150,
+        1056,
+        1080
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400722962574",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400722962574",
+      "game_id": "400722962574",
+      "start_at_beijing": "2025-11-25T23:03:07+08:00",
+      "end_at_beijing": "2025-11-25T23:22:15+08:00",
+      "duration_seconds": 1148,
+      "champion": {
+        "id": 120,
+        "name": "赫卡里姆",
+        "english_name": "Hecarim",
+        "title": "战争之影",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1118,
+        1324,
+        1013,
+        1029
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400722925961",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400722925961",
+      "game_id": "400722925961",
+      "start_at_beijing": "2025-11-25T22:52:43+08:00",
+      "end_at_beijing": "2025-11-25T23:01:12+08:00",
+      "duration_seconds": 509,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1029,
+        1334
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400721758185",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400721758185",
+      "game_id": "400721758185",
+      "start_at_beijing": "2025-11-24T23:43:11+08:00",
+      "end_at_beijing": "2025-11-24T23:54:05+08:00",
+      "duration_seconds": 654,
+      "champion": {
+        "id": 120,
+        "name": "赫卡里姆",
+        "english_name": "Hecarim",
+        "title": "战争之影",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1075,
+        1353,
+        1023
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400721738004",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400721738004",
+      "game_id": "400721738004",
+      "start_at_beijing": "2025-11-24T23:24:01+08:00",
+      "end_at_beijing": "2025-11-24T23:40:41+08:00",
+      "duration_seconds": 1000,
+      "champion": {
+        "id": 120,
+        "name": "赫卡里姆",
+        "english_name": "Hecarim",
+        "title": "战争之影",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1353,
+        1206,
+        1133
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400721687786",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400721687786",
+      "game_id": "400721687786",
+      "start_at_beijing": "2025-11-24T23:11:22+08:00",
+      "end_at_beijing": "2025-11-24T23:22:07+08:00",
+      "duration_seconds": 645,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1214,
+        1353,
+        1333
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400721648999",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400721648999",
+      "game_id": "400721648999",
+      "start_at_beijing": "2025-11-24T22:56:13+08:00",
+      "end_at_beijing": "2025-11-24T23:09:23+08:00",
+      "duration_seconds": 789,
+      "champion": {
+        "id": 104,
+        "name": "格雷福斯",
+        "english_name": "Graves",
+        "title": "法外狂徒",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1346,
+        1328,
+        1315
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400721612917",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400721612917",
+      "game_id": "400721612917",
+      "start_at_beijing": "2025-11-24T22:38:10+08:00",
+      "end_at_beijing": "2025-11-24T22:53:55+08:00",
+      "duration_seconds": 945,
+      "champion": {
+        "id": 80,
+        "name": "潘森",
+        "english_name": "Pantheon",
+        "title": "不屈之枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1353,
+        1150,
+        1042,
+        1077
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400721605422",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400721605422",
+      "game_id": "400721605422",
+      "start_at_beijing": "2025-11-24T22:21:43+08:00",
+      "end_at_beijing": "2025-11-24T22:36:08+08:00",
+      "duration_seconds": 865,
+      "champion": {
+        "id": 80,
+        "name": "潘森",
+        "english_name": "Pantheon",
+        "title": "不屈之枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1103,
+        1327,
+        1079
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400721562350",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400721562350",
+      "game_id": "400721562350",
+      "start_at_beijing": "2025-11-24T22:01:46+08:00",
+      "end_at_beijing": "2025-11-24T22:19:52+08:00",
+      "duration_seconds": 1086,
+      "champion": {
+        "id": 80,
+        "name": "潘森",
+        "english_name": "Pantheon",
+        "title": "不屈之枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1023,
+        1136,
+        1046,
+        1081
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400720495540",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400720495540",
+      "game_id": "400720495540",
+      "start_at_beijing": "2025-11-24T00:30:51+08:00",
+      "end_at_beijing": "2025-11-24T00:47:43+08:00",
+      "duration_seconds": 1012,
+      "champion": {
+        "id": 115,
+        "name": "吉格斯",
+        "english_name": "Ziggs",
+        "title": "爆破鬼才",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1154,
+        1113,
+        1349,
+        1088
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400720486554",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400720486554",
+      "game_id": "400720486554",
+      "start_at_beijing": "2025-11-24T00:14:05+08:00",
+      "end_at_beijing": "2025-11-24T00:27:59+08:00",
+      "duration_seconds": 834,
+      "champion": {
+        "id": 266,
+        "name": "亚托克斯",
+        "english_name": "Aatrox",
+        "title": "暗裔剑魔",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1063,
+        1041,
+        1103
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400720454543",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400720454543",
+      "game_id": "400720454543",
+      "start_at_beijing": "2025-11-23T23:51:41+08:00",
+      "end_at_beijing": "2025-11-24T00:11:37+08:00",
+      "duration_seconds": 1196,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1113,
+        1205,
+        1323,
+        1105
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400720413762",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400720413762",
+      "game_id": "400720413762",
+      "start_at_beijing": "2025-11-23T23:27:26+08:00",
+      "end_at_beijing": "2025-11-23T23:46:41+08:00",
+      "duration_seconds": 1155,
+      "champion": {
+        "id": 235,
+        "name": "赛娜",
+        "english_name": "Senna",
+        "title": "涤魂圣枪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1107,
+        1071,
+        1115,
+        1009
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400720415087",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400720415087",
+      "game_id": "400720415087",
+      "start_at_beijing": "2025-11-23T23:10:54+08:00",
+      "end_at_beijing": "2025-11-23T23:25:26+08:00",
+      "duration_seconds": 872,
+      "champion": {
+        "id": 80,
+        "name": "潘森",
+        "english_name": "Pantheon",
+        "title": "不屈之枪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1029,
+        1151,
+        1348,
+        1019
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400718975639",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400718975639",
+      "game_id": "400718975639",
+      "start_at_beijing": "2025-11-23T01:11:24+08:00",
+      "end_at_beijing": "2025-11-23T01:28:58+08:00",
+      "duration_seconds": 1054,
+      "champion": {
+        "id": 63,
+        "name": "布兰德",
+        "english_name": "Brand",
+        "title": "复仇焰魂",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1097,
+        1337,
+        1056,
+        1347
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400718966080",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400718966080",
+      "game_id": "400718966080",
+      "start_at_beijing": "2025-11-23T00:44:48+08:00",
+      "end_at_beijing": "2025-11-23T01:07:04+08:00",
+      "duration_seconds": 1336,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1313,
+        1063,
+        1006,
+        1243,
+        1133
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400718906649",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400718906649",
+      "game_id": "400718906649",
+      "start_at_beijing": "2025-11-23T00:22:18+08:00",
+      "end_at_beijing": "2025-11-23T00:39:26+08:00",
+      "duration_seconds": 1028,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1084,
+        1068,
+        1103,
+        1322
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400718886910",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400718886910",
+      "game_id": "400718886910",
+      "start_at_beijing": "2025-11-23T00:09:33+08:00",
+      "end_at_beijing": "2025-11-23T00:20:24+08:00",
+      "duration_seconds": 651,
+      "champion": {
+        "id": 13,
+        "name": "瑞兹",
+        "english_name": "Ryze",
+        "title": "符文法师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1062,
+        1103,
+        1311
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400718881685",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400718881685",
+      "game_id": "400718881685",
+      "start_at_beijing": "2025-11-22T23:59:19+08:00",
+      "end_at_beijing": "2025-11-23T00:07:37+08:00",
+      "duration_seconds": 498,
+      "champion": {
+        "id": 86,
+        "name": "盖伦",
+        "english_name": "Garen",
+        "title": "德玛西亚之力",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1152,
+        1075
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400718876024",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400718876024",
+      "game_id": "400718876024",
+      "start_at_beijing": "2025-11-22T23:42:30+08:00",
+      "end_at_beijing": "2025-11-22T23:57:26+08:00",
+      "duration_seconds": 896,
+      "champion": {
+        "id": 112,
+        "name": "维克托",
+        "english_name": "Viktor",
+        "title": "奥术先驱",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1097,
+        1156,
+        1056,
+        1034
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400718848370",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400718848370",
+      "game_id": "400718848370",
+      "start_at_beijing": "2025-11-22T23:31:52+08:00",
+      "end_at_beijing": "2025-11-22T23:40:22+08:00",
+      "duration_seconds": 510,
+      "champion": {
+        "id": 901,
+        "name": "斯莫德",
+        "english_name": "Smolder",
+        "title": "炽炎雏龙",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1194,
+        1336
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400718804185",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400718804185",
+      "game_id": "400718804185",
+      "start_at_beijing": "2025-11-22T23:07:27+08:00",
+      "end_at_beijing": "2025-11-22T23:27:41+08:00",
+      "duration_seconds": 1214,
+      "champion": {
+        "id": 31,
+        "name": "科加斯",
+        "english_name": "Chogath",
+        "title": "虚空恐惧",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1064,
+        1028,
+        1006,
+        1129
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400717378570",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400717378570",
+      "game_id": "400717378570",
+      "start_at_beijing": "2025-11-22T00:30:10+08:00",
+      "end_at_beijing": "2025-11-22T00:46:59+08:00",
+      "duration_seconds": 1008,
+      "champion": {
+        "id": 74,
+        "name": "黑默丁格",
+        "english_name": "Heimerdinger",
+        "title": "大发明家",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1115,
+        1243,
+        1034,
+        1068,
+        1097
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400717367117",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400717367117",
+      "game_id": "400717367117",
+      "start_at_beijing": "2025-11-22T00:10:02+08:00",
+      "end_at_beijing": "2025-11-22T00:27:04+08:00",
+      "duration_seconds": 1022,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1044,
+        1084,
+        1020,
+        1301
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400707989903",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400707989903",
+      "game_id": "400707989903",
+      "start_at_beijing": "2025-11-14T23:45:12+08:00",
+      "end_at_beijing": "2025-11-15T00:01:17+08:00",
+      "duration_seconds": 965,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1156,
+        1032,
+        1341,
+        1205
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400707957992",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400707957992",
+      "game_id": "400707957992",
+      "start_at_beijing": "2025-11-14T23:26:48+08:00",
+      "end_at_beijing": "2025-11-14T23:42:58+08:00",
+      "duration_seconds": 969,
+      "champion": {
+        "id": 222,
+        "name": "金克丝",
+        "english_name": "Jinx",
+        "title": "暴走萝莉",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1220,
+        1052,
+        1107,
+        1328
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400707926455",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400707926455",
+      "game_id": "400707926455",
+      "start_at_beijing": "2025-11-14T22:57:03+08:00",
+      "end_at_beijing": "2025-11-14T23:23:55+08:00",
+      "duration_seconds": 1611,
+      "champion": {
+        "id": 875,
+        "name": "瑟提",
+        "english_name": "Sett",
+        "title": "腕豪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1064,
+        1353,
+        1150,
+        1238
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400707857794",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400707857794",
+      "game_id": "400707857794",
+      "start_at_beijing": "2025-11-14T22:36:28+08:00",
+      "end_at_beijing": "2025-11-14T22:54:58+08:00",
+      "duration_seconds": 1110,
+      "champion": {
+        "id": 266,
+        "name": "亚托克斯",
+        "english_name": "Aatrox",
+        "title": "暗裔剑魔",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1047,
+        1045,
+        1084,
+        1333
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400707819567",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400707819567",
+      "game_id": "400707819567",
+      "start_at_beijing": "2025-11-14T22:13:03+08:00",
+      "end_at_beijing": "2025-11-14T22:33:29+08:00",
+      "duration_seconds": 1226,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1052,
+        1060,
+        1080,
+        1353
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400707780500",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400707780500",
+      "game_id": "400707780500",
+      "start_at_beijing": "2025-11-14T21:54:45+08:00",
+      "end_at_beijing": "2025-11-14T22:11:10+08:00",
+      "duration_seconds": 985,
+      "champion": {
+        "id": 134,
+        "name": "辛德拉",
+        "english_name": "Syndra",
+        "title": "暗黑元首",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1097,
+        1334,
+        1346,
+        1180
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400707703767",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400707703767",
+      "game_id": "400707703767",
+      "start_at_beijing": "2025-11-14T21:25:44+08:00",
+      "end_at_beijing": "2025-11-14T21:52:20+08:00",
+      "duration_seconds": 1596,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1087,
+        1047,
+        1205,
+        1029
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400707634840",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400707634840",
+      "game_id": "400707634840",
+      "start_at_beijing": "2025-11-14T20:59:51+08:00",
+      "end_at_beijing": "2025-11-14T21:23:31+08:00",
+      "duration_seconds": 1420,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1075,
+        1138,
+        1103,
+        1064
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400707612632",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400707612632",
+      "game_id": "400707612632",
+      "start_at_beijing": "2025-11-14T20:41:51+08:00",
+      "end_at_beijing": "2025-11-14T20:57:34+08:00",
+      "duration_seconds": 944,
+      "champion": {
+        "id": 85,
+        "name": "凯南",
+        "english_name": "Kennen",
+        "title": "狂暴之心",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1335,
+        1211,
+        1084,
+        1097
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400707559894",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400707559894",
+      "game_id": "400707559894",
+      "start_at_beijing": "2025-11-14T20:23:57+08:00",
+      "end_at_beijing": "2025-11-14T20:38:56+08:00",
+      "duration_seconds": 899,
+      "champion": {
+        "id": 875,
+        "name": "瑟提",
+        "english_name": "Sett",
+        "title": "腕豪",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1103,
+        1041,
+        1324
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400701550469",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400701550469",
+      "game_id": "400701550469",
+      "start_at_beijing": "2025-11-10T00:21:42+08:00",
+      "end_at_beijing": "2025-11-10T00:35:47+08:00",
+      "duration_seconds": 844,
+      "champion": {
+        "id": 222,
+        "name": "金克丝",
+        "english_name": "Jinx",
+        "title": "暴走萝莉",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1336,
+        1328,
+        1225
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400701503807",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400701503807",
+      "game_id": "400701503807",
+      "start_at_beijing": "2025-11-09T23:54:14+08:00",
+      "end_at_beijing": "2025-11-10T00:19:35+08:00",
+      "duration_seconds": 1521,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1113,
+        1097,
+        1195,
+        1084
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400701515081",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400701515081",
+      "game_id": "400701515081",
+      "start_at_beijing": "2025-11-09T23:36:35+08:00",
+      "end_at_beijing": "2025-11-09T23:52:10+08:00",
+      "duration_seconds": 936,
+      "champion": {
+        "id": 141,
+        "name": "凯隐",
+        "english_name": "Kayn",
+        "title": "影流之镰",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1320,
+        1349,
+        1305,
+        1118
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400701442903",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400701442903",
+      "game_id": "400701442903",
+      "start_at_beijing": "2025-11-09T23:15:03+08:00",
+      "end_at_beijing": "2025-11-09T23:34:11+08:00",
+      "duration_seconds": 1148,
+      "champion": {
+        "id": 63,
+        "name": "布兰德",
+        "english_name": "Brand",
+        "title": "复仇焰魂",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1150,
+        1113,
+        1064,
+        1039
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400691144551",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400691144551",
+      "game_id": "400691144551",
+      "start_at_beijing": "2025-11-02T14:40:14+08:00",
+      "end_at_beijing": "2025-11-02T14:56:45+08:00",
+      "duration_seconds": 991,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1041,
+        1305,
+        1238,
+        1074
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400691119077",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400691119077",
+      "game_id": "400691119077",
+      "start_at_beijing": "2025-11-02T13:59:58+08:00",
+      "end_at_beijing": "2025-11-02T14:24:26+08:00",
+      "duration_seconds": 1468,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1032,
+        1156,
+        1056,
+        1060
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690703813",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690703813",
+      "game_id": "400690703813",
+      "start_at_beijing": "2025-11-02T01:15:36+08:00",
+      "end_at_beijing": "2025-11-02T01:39:19+08:00",
+      "duration_seconds": 1428,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1151,
+        1205,
+        1050,
+        1237
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690731119",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690731119",
+      "game_id": "400690731119",
+      "start_at_beijing": "2025-11-02T01:04:32+08:00",
+      "end_at_beijing": "2025-11-02T01:13:03+08:00",
+      "duration_seconds": 511,
+      "champion": {
+        "id": 875,
+        "name": "瑟提",
+        "english_name": "Sett",
+        "title": "腕豪",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1084,
+        1238
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690658947",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690658947",
+      "game_id": "400690658947",
+      "start_at_beijing": "2025-11-02T00:37:13+08:00",
+      "end_at_beijing": "2025-11-02T00:59:04+08:00",
+      "duration_seconds": 1310,
+      "champion": {
+        "id": 90,
+        "name": "玛尔扎哈",
+        "english_name": "Malzahar",
+        "title": "虚空先知",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1097,
+        1113,
+        1030,
+        1301
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690630984",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690630984",
+      "game_id": "400690630984",
+      "start_at_beijing": "2025-11-02T00:14:48+08:00",
+      "end_at_beijing": "2025-11-02T00:34:19+08:00",
+      "duration_seconds": 1171,
+      "champion": {
+        "id": 45,
+        "name": "维迦",
+        "english_name": "Veigar",
+        "title": "邪恶小法师",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1341,
+        1084,
+        1097,
+        1311
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690646050",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690646050",
+      "game_id": "400690646050",
+      "start_at_beijing": "2025-11-01T23:54:20+08:00",
+      "end_at_beijing": "2025-11-02T00:11:54+08:00",
+      "duration_seconds": 1054,
+      "champion": {
+        "id": 122,
+        "name": "德莱厄斯",
+        "english_name": "Darius",
+        "title": "诺克萨斯之手",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1029,
+        1996,
+        1344,
+        1077
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690604388",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690604388",
+      "game_id": "400690604388",
+      "start_at_beijing": "2025-11-01T23:38:34+08:00",
+      "end_at_beijing": "2025-11-01T23:52:00+08:00",
+      "duration_seconds": 806,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1084,
+        1050,
+        1032
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690528255",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690528255",
+      "game_id": "400690528255",
+      "start_at_beijing": "2025-11-01T22:59:22+08:00",
+      "end_at_beijing": "2025-11-01T23:21:42+08:00",
+      "duration_seconds": 1339,
+      "champion": {
+        "id": 711,
+        "name": "薇古丝",
+        "english_name": "Vex",
+        "title": "愁云使者",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1056,
+        1151,
+        1311,
+        1062
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690466728",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690466728",
+      "game_id": "400690466728",
+      "start_at_beijing": "2025-11-01T22:37:56+08:00",
+      "end_at_beijing": "2025-11-01T22:56:49+08:00",
+      "duration_seconds": 1133,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 200,
+      "augment_ids": [
+        1205,
+        1046,
+        1056,
+        1062
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690413834",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690413834",
+      "game_id": "400690413834",
+      "start_at_beijing": "2025-11-01T22:17:59+08:00",
+      "end_at_beijing": "2025-11-01T22:34:20+08:00",
+      "duration_seconds": 981,
+      "champion": {
+        "id": 268,
+        "name": "阿兹尔",
+        "english_name": "Azir",
+        "title": "沙漠皇帝",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1081,
+        1194,
+        1062,
+        1088
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690358915",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690358915",
+      "game_id": "400690358915",
+      "start_at_beijing": "2025-11-01T21:56:58+08:00",
+      "end_at_beijing": "2025-11-01T22:15:07+08:00",
+      "duration_seconds": 1089,
+      "champion": {
+        "id": 25,
+        "name": "莫甘娜",
+        "english_name": "Morgana",
+        "title": "堕落天使",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1138,
+        1348,
+        1113,
+        1238
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690333310",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690333310",
+      "game_id": "400690333310",
+      "start_at_beijing": "2025-11-01T21:33:17+08:00",
+      "end_at_beijing": "2025-11-01T21:53:40+08:00",
+      "duration_seconds": 1223,
+      "champion": {
+        "id": 136,
+        "name": "奥瑞利安索尔",
+        "english_name": "AurelionSol",
+        "title": "铸星龙王",
+        "mapped": true
+      },
+      "win": true,
+      "team_id": 100,
+      "augment_ids": [
+        1335,
+        1138,
+        1068,
+        1237
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690294186",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690294186",
+      "game_id": "400690294186",
+      "start_at_beijing": "2025-11-01T21:13:36+08:00",
+      "end_at_beijing": "2025-11-01T21:30:38+08:00",
+      "duration_seconds": 1022,
+      "champion": {
+        "id": 101,
+        "name": "泽拉斯",
+        "english_name": "Xerath",
+        "title": "远古巫灵",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 200,
+      "augment_ids": [
+        1325,
+        1034,
+        1113,
+        1345
+      ]
+    },
+    {
+      "match_key": "TJ101:TJ101_400690196814",
+      "platform_id": "TJ101",
+      "match_id": "TJ101_400690196814",
+      "game_id": "400690196814",
+      "start_at_beijing": "2025-11-01T20:45:18+08:00",
+      "end_at_beijing": "2025-11-01T21:08:05+08:00",
+      "duration_seconds": 1367,
+      "champion": {
+        "id": 86,
+        "name": "盖伦",
+        "english_name": "Garen",
+        "title": "德玛西亚之力",
+        "mapped": true
+      },
+      "win": false,
+      "team_id": 100,
+      "augment_ids": [
+        1320,
+        1071,
+        1028,
+        1002
+      ]
+    }
+  ]
+}
