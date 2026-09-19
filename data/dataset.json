@@ -1,0 +1,40 @@
+{
+  "snapshot": "2026-09-19",
+  "players": 9,
+  "matches": 3485,
+  "player_appearances": 6539,
+  "first_start_beijing": "2025-10-24 20:12:32",
+  "last_start_beijing": "2026-09-19 12:49:32",
+  "files": [
+    {
+      "name": "matches.jsonl",
+      "sha256": "f22ebc4f0386545dbb5f47a2dbc73715c637ac86d4ee2deb5663ec5ae1149dcd",
+      "bytes": 419100147,
+      "parts": [
+        "data/matches-001.jsonl.gz",
+        "data/matches-002.jsonl.gz",
+        "data/matches-003.jsonl.gz",
+        "data/matches-004.jsonl.gz",
+        "data/matches-005.jsonl.gz",
+        "data/matches-006.jsonl.gz",
+        "data/matches-007.jsonl.gz"
+      ],
+      "format": "independent-jsonl-gzip"
+    },
+    {
+      "name": "aram_mayhem.sqlite",
+      "sha256": "fc82aabfc142e9f2392212fb11681ce91d2100942f426f92f92c5957fc074d9f",
+      "bytes": 505438208,
+      "parts": [
+        "data/aram_mayhem.sqlite.gz.part001",
+        "data/aram_mayhem.sqlite.gz.part002",
+        "data/aram_mayhem.sqlite.gz.part003",
+        "data/aram_mayhem.sqlite.gz.part004",
+        "data/aram_mayhem.sqlite.gz.part005",
+        "data/aram_mayhem.sqlite.gz.part006",
+        "data/aram_mayhem.sqlite.gz.part007"
+      ],
+      "format": "split-gzip-stream"
+    }
+  ]
+}
